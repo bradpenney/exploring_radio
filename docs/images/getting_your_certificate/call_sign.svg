@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" width="900" height="430" role="img" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">
+<title>A call sign drawn as three 3D blocks: a two-letter country block such as VA, then a digit for the area where the operator lives, such as 1 for Nova Scotia, then a suffix of two or three letters, shown blank because this is a format example and not a real station. Beneath, the prefixes for every province and territory: VE1 and VA1 Nova Scotia, VE2 and VA2 Quebec, VE3 and VA3 Ontario, VE4 and VA4 Manitoba, VE5 and VA5 Saskatchewan, VE6 and VA6 Alberta, VE7 and VA7 British Columbia, VE8 Northwest Territories, VE9 New Brunswick, VO1 Newfoundland, VO2 Labrador, VY1 Yukon, VY2 Prince Edward Island, VY0 Nunavut.</title>
+<defs><radialGradient id="eball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#cbd5e0"/><stop offset="1" stop-color="#4a5568"/></radialGradient><radialGradient id="vball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff7e0"/><stop offset="0.45" stop-color="#f59e0b"/><stop offset="1" stop-color="#92400e"/></radialGradient><radialGradient id="core" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#e2e8f0"/><stop offset="0.45" stop-color="#718096"/><stop offset="1" stop-color="#1a202c"/></radialGradient><radialGradient id="silverball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#c0c6cf"/><stop offset="1" stop-color="#5a6270"/></radialGradient><radialGradient id="copperball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffd2b0"/><stop offset="0.45" stop-color="#c8733c"/><stop offset="1" stop-color="#5e2b10"/></radialGradient><radialGradient id="goldball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff3b0"/><stop offset="0.45" stop-color="#e6b422"/><stop offset="1" stop-color="#7a5a00"/></radialGradient><radialGradient id="alball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#f0f6ff"/><stop offset="0.45" stop-color="#a8b8cc"/><stop offset="1" stop-color="#4a5868"/></radialGradient><radialGradient id="glow" r="50%"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.55"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient><linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d3748" stop-opacity="0.45"/><stop offset="1" stop-color="#1a202c" stop-opacity="0.15"/></linearGradient><linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="0.45" stop-color="#ffffff" stop-opacity="0.05"/><stop offset="0.55" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.35"/></linearGradient><filter id="softglow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f59e0b"/></marker></defs>
+<rect x="15" y="15" width="870" height="400" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="450.0" y="48.0" font-size="17" fill="#fbbf24" text-anchor="middle" font-weight="bold">How a Canadian call sign is built (format example, not a real station)</text>
+<ellipse cx="289.0" cy="225.0" rx="85.0" ry="7.2" fill="#000" fill-opacity="0.4"/>
+<polygon points="210.0,120.0 340.0,120.0 368.0,102.0 238.0,102.0" fill="#7ab7ea"/>
+<rect x="210.0" y="120.0" width="130.0" height="100.0" fill="#4299e1"/>
+<rect x="210.0" y="120.0" width="130.0" height="100.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="340.0,220.0 340.0,120.0 368.0,102.0 368.0,202.0" fill="#24547b"/>
+<text x="275.0" y="184.0" font-size="36" fill="#ffffff" text-anchor="middle" font-weight="bold">VA</text>
+<text x="285.0" y="252.0" font-size="14" fill="#e6e6e6" text-anchor="middle" font-weight="bold">country block</text>
+<text x="285.0" y="270.0" font-size="12" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">VE, VA, VO or VY</text>
+<ellipse cx="434.0" cy="225.0" rx="70.0" ry="7.2" fill="#000" fill-opacity="0.4"/>
+<polygon points="370.0,120.0 470.0,120.0 498.0,102.0 398.0,102.0" fill="#f8bb54"/>
+<rect x="370.0" y="120.0" width="100.0" height="100.0" fill="#f59e0b"/>
+<rect x="370.0" y="120.0" width="100.0" height="100.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="470.0,220.0 470.0,120.0 498.0,102.0 498.0,202.0" fill="#865606"/>
+<text x="420.0" y="184.0" font-size="36" fill="#1a1a1a" text-anchor="middle" font-weight="bold">1</text>
+<text x="430.0" y="252.0" font-size="14" fill="#e6e6e6" text-anchor="middle" font-weight="bold">area digit</text>
+<text x="430.0" y="270.0" font-size="12" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">where you live</text>
+<ellipse cx="594.0" cy="225.0" rx="100.0" ry="7.2" fill="#000" fill-opacity="0.4"/>
+<polygon points="500.0,120.0 660.0,120.0 688.0,102.0 528.0,102.0" fill="#7ecfa0"/>
+<rect x="500.0" y="120.0" width="160.0" height="100.0" fill="#48bb78"/>
+<rect x="500.0" y="120.0" width="160.0" height="100.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="660.0,220.0 660.0,120.0 688.0,102.0 688.0,202.0" fill="#276642"/>
+<text x="580.0" y="184.0" font-size="36" fill="#ffffff" text-anchor="middle" font-weight="bold">· · ·</text>
+<text x="590.0" y="252.0" font-size="14" fill="#e6e6e6" text-anchor="middle" font-weight="bold">suffix</text>
+<text x="590.0" y="270.0" font-size="12" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">2 or 3 letters</text>
+<text x="90.0" y="318.0" font-size="12" fill="#fbbf24" text-anchor="middle" font-weight="bold">VE1, VA1</text>
+<text x="90.0" y="333.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">Nova Scotia</text>
+<text x="208.0" y="318.0" font-size="12" fill="#fbbf24" text-anchor="middle" font-weight="bold">VE2, VA2</text>
+<text x="208.0" y="333.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">Quebec</text>
+<text x="326.0" y="318.0" font-size="12" fill="#fbbf24" text-anchor="middle" font-weight="bold">VE3, VA3</text>
+<text x="326.0" y="333.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">Ontario</text>
+<text x="444.0" y="318.0" font-size="12" fill="#fbbf24" text-anchor="middle" font-weight="bold">VE4, VA4</text>
+<text x="444.0" y="333.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">Manitoba</text>
+<text x="562.0" y="318.0" font-size="12" fill="#fbbf24" text-anchor="middle" font-weight="bold">VE5, VA5</text>
+<text x="562.0" y="333.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">Saskatchewan</text>
+<text x="680.0" y="318.0" font-size="12" fill="#fbbf24" text-anchor="middle" font-weight="bold">VE6, VA6</text>
+<text x="680.0" y="333.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">Alberta</text>
+<text x="798.0" y="318.0" font-size="12" fill="#fbbf24" text-anchor="middle" font-weight="bold">VE7, VA7</text>
+<text x="798.0" y="333.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">British Columbia</text>
+<text x="90.0" y="358.0" font-size="12" fill="#fbbf24" text-anchor="middle" font-weight="bold">VE8</text>
+<text x="90.0" y="373.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">Northwest Territories</text>
+<text x="208.0" y="358.0" font-size="12" fill="#fbbf24" text-anchor="middle" font-weight="bold">VE9</text>
+<text x="208.0" y="373.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">New Brunswick</text>
+<text x="326.0" y="358.0" font-size="12" fill="#fbbf24" text-anchor="middle" font-weight="bold">VO1</text>
+<text x="326.0" y="373.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">Newfoundland</text>
+<text x="444.0" y="358.0" font-size="12" fill="#fbbf24" text-anchor="middle" font-weight="bold">VO2</text>
+<text x="444.0" y="373.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">Labrador</text>
+<text x="562.0" y="358.0" font-size="12" fill="#fbbf24" text-anchor="middle" font-weight="bold">VY1</text>
+<text x="562.0" y="373.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">Yukon</text>
+<text x="680.0" y="358.0" font-size="12" fill="#fbbf24" text-anchor="middle" font-weight="bold">VY2</text>
+<text x="680.0" y="373.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">Prince Edward Island</text>
+<text x="798.0" y="358.0" font-size="12" fill="#fbbf24" text-anchor="middle" font-weight="bold">VY0</text>
+<text x="798.0" y="373.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">Nunavut</text>
+<text x="450.0" y="404.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">prefixes from RBR-4 Schedule V; VE0 is reserved for stations aboard vessels in international waters</text>
+</svg>

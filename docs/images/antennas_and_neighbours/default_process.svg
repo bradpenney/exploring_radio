@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" width="900" height="440" role="img" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">
+<title>ISED's default public consultation under section 4.2 of CPC-2-0-03. A tower of height h sits at the centre of a notification circle with a radius of three times the tower height; homes inside are notified by mail or by hand, homes outside are not. Three steps: notify the public, the land-use authority and ISED, allowing at least 30 days for written comments; acknowledge concerns within 14 days and address reasonable and relevant concerns in writing within 60 days; the public then has 21 days to reply, and copies go to ISED.</title>
+<defs><radialGradient id="eball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#cbd5e0"/><stop offset="1" stop-color="#4a5568"/></radialGradient><radialGradient id="vball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff7e0"/><stop offset="0.45" stop-color="#f59e0b"/><stop offset="1" stop-color="#92400e"/></radialGradient><radialGradient id="core" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#e2e8f0"/><stop offset="0.45" stop-color="#718096"/><stop offset="1" stop-color="#1a202c"/></radialGradient><radialGradient id="silverball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#c0c6cf"/><stop offset="1" stop-color="#5a6270"/></radialGradient><radialGradient id="copperball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffd2b0"/><stop offset="0.45" stop-color="#c8733c"/><stop offset="1" stop-color="#5e2b10"/></radialGradient><radialGradient id="goldball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff3b0"/><stop offset="0.45" stop-color="#e6b422"/><stop offset="1" stop-color="#7a5a00"/></radialGradient><radialGradient id="alball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#f0f6ff"/><stop offset="0.45" stop-color="#a8b8cc"/><stop offset="1" stop-color="#4a5868"/></radialGradient><radialGradient id="glow" r="50%"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.55"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient><linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d3748" stop-opacity="0.45"/><stop offset="1" stop-color="#1a202c" stop-opacity="0.15"/></linearGradient><linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="0.45" stop-color="#ffffff" stop-opacity="0.05"/><stop offset="0.55" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.35"/></linearGradient><filter id="softglow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f59e0b"/></marker></defs>
+<rect x="15" y="15" width="870" height="410" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="450.0" y="48.0" font-size="16" fill="#fbbf24" text-anchor="middle" font-weight="bold">ISED's default public consultation (CPC-2-0-03 s. 4.2)</text>
+<ellipse cx="260" cy="300" rx="200" ry="70" fill="#164744" stroke="#38b2ac" stroke-width="2" stroke-dasharray="8 6"/>
+<line x1="260" y1="300" x2="260" y2="130" stroke="#e6e6e6" stroke-width="5"/>
+<line x1="220" y1="140" x2="300" y2="140" stroke="#e6e6e6" stroke-width="4"/>
+<line x1="260" y1="180" x2="150" y2="300" stroke="#a0aec0" stroke-width="1"/>
+<line x1="260" y1="180" x2="370" y2="300" stroke="#a0aec0" stroke-width="1"/>
+<path d="M 260 308 L 460 308" stroke="#fbbf24" stroke-width="2"/>
+<text x="360.0" y="328.0" font-size="12" fill="#fbbf24" text-anchor="middle" font-weight="bold">3 × tower height</text>
+<text x="272.0" y="125.0" font-size="11" fill="#a0aec0" text-anchor="start" font-weight="normal" font-style="italic">tower height h</text>
+<ellipse cx="134.7" cy="295.0" rx="30.7" ry="5.0" fill="#000" fill-opacity="0.4"/>
+<polygon points="110.0,268.0 144.0,268.0 159.4,258.1 125.4,258.1" fill="#7ab7ea"/>
+<rect x="110.0" y="268.0" width="34.0" height="22.0" fill="#4299e1"/>
+<rect x="110.0" y="268.0" width="34.0" height="22.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="144.0,290.0 144.0,268.0 159.4,258.1 159.4,280.1" fill="#24547b"/>
+<ellipse cx="404.7" cy="275.0" rx="30.7" ry="5.0" fill="#000" fill-opacity="0.4"/>
+<polygon points="380.0,248.0 414.0,248.0 429.4,238.1 395.4,238.1" fill="#7ab7ea"/>
+<rect x="380.0" y="248.0" width="34.0" height="22.0" fill="#4299e1"/>
+<rect x="380.0" y="248.0" width="34.0" height="22.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="414.0,270.0 414.0,248.0 429.4,238.1 429.4,260.1" fill="#24547b"/>
+<ellipse cx="224.7" cy="345.0" rx="30.7" ry="5.0" fill="#000" fill-opacity="0.4"/>
+<polygon points="200.0,318.0 234.0,318.0 249.4,308.1 215.4,308.1" fill="#7ab7ea"/>
+<rect x="200.0" y="318.0" width="34.0" height="22.0" fill="#4299e1"/>
+<rect x="200.0" y="318.0" width="34.0" height="22.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="234.0,340.0 234.0,318.0 249.4,308.1 249.4,330.1" fill="#24547b"/>
+<ellipse cx="514.7" cy="255.0" rx="30.7" ry="5.0" fill="#000" fill-opacity="0.4"/>
+<polygon points="490.0,228.0 524.0,228.0 539.4,218.1 505.4,218.1" fill="#808895"/>
+<rect x="490.0" y="228.0" width="34.0" height="22.0" fill="#4a5568"/>
+<rect x="490.0" y="228.0" width="34.0" height="22.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="524.0,250.0 524.0,228.0 539.4,218.1 539.4,240.1" fill="#282e39"/>
+<text x="507.0" y="215.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">outside</text>
+<text x="260.0" y="395.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">notify everyone inside, by mail or by hand</text>
+<rect x="543.0" y="93.0" width="34" height="34" rx="17.0" fill="#38b2ac"/>
+<rect x="543.0" y="93.0" width="34" height="34" rx="17.0" fill="url(#gloss)"/>
+<text x="560.0" y="115.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold">1</text>
+<text x="590.0" y="115.0" font-size="15" fill="#fbbf24" text-anchor="start" font-weight="bold">Notify</text>
+<text x="590.0" y="138.0" font-size="12" fill="#e6e6e6" text-anchor="start" font-weight="normal">public, land-use authority and ISED;</text>
+<text x="590.0" y="156.0" font-size="12" fill="#e6e6e6" text-anchor="start" font-weight="normal">at least 30 days for written comments</text>
+<rect x="543.0" y="188.0" width="34" height="34" rx="17.0" fill="#38b2ac"/>
+<rect x="543.0" y="188.0" width="34" height="34" rx="17.0" fill="url(#gloss)"/>
+<text x="560.0" y="210.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold">2</text>
+<text x="590.0" y="210.0" font-size="15" fill="#fbbf24" text-anchor="start" font-weight="bold">Respond</text>
+<text x="590.0" y="233.0" font-size="12" fill="#e6e6e6" text-anchor="start" font-weight="normal">acknowledge within 14 days; address</text>
+<text x="590.0" y="251.0" font-size="12" fill="#e6e6e6" text-anchor="start" font-weight="normal">reasonable and relevant concerns within 60</text>
+<rect x="543.0" y="283.0" width="34" height="34" rx="17.0" fill="#38b2ac"/>
+<rect x="543.0" y="283.0" width="34" height="34" rx="17.0" fill="url(#gloss)"/>
+<text x="560.0" y="305.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold">3</text>
+<text x="590.0" y="305.0" font-size="15" fill="#fbbf24" text-anchor="start" font-weight="bold">Reply</text>
+<text x="590.0" y="328.0" font-size="12" fill="#e6e6e6" text-anchor="start" font-weight="normal">the public has 21 days to reply;</text>
+<text x="590.0" y="346.0" font-size="12" fill="#e6e6e6" text-anchor="start" font-weight="normal">copies go to ISED</text>
+</svg>

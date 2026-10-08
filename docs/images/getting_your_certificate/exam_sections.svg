@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">
+<title>Eight 3D bars of how many of the exam's 100 questions come from each section, one per topic area: B-001 Regulations 25, B-002 Operating 9, B-003 Station and safety 21, B-004 Components 6, B-005 Electronics 13, B-006 Antennas 13, B-007 Propagation 8, B-008 Interference 5. Regulations, the section this article belongs to, is a quarter of the exam.</title>
+<defs><radialGradient id="eball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#cbd5e0"/><stop offset="1" stop-color="#4a5568"/></radialGradient><radialGradient id="vball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff7e0"/><stop offset="0.45" stop-color="#f59e0b"/><stop offset="1" stop-color="#92400e"/></radialGradient><radialGradient id="core" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#e2e8f0"/><stop offset="0.45" stop-color="#718096"/><stop offset="1" stop-color="#1a202c"/></radialGradient><radialGradient id="silverball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#c0c6cf"/><stop offset="1" stop-color="#5a6270"/></radialGradient><radialGradient id="copperball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffd2b0"/><stop offset="0.45" stop-color="#c8733c"/><stop offset="1" stop-color="#5e2b10"/></radialGradient><radialGradient id="goldball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff3b0"/><stop offset="0.45" stop-color="#e6b422"/><stop offset="1" stop-color="#7a5a00"/></radialGradient><radialGradient id="alball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#f0f6ff"/><stop offset="0.45" stop-color="#a8b8cc"/><stop offset="1" stop-color="#4a5868"/></radialGradient><radialGradient id="glow" r="50%"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.55"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient><linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d3748" stop-opacity="0.45"/><stop offset="1" stop-color="#1a202c" stop-opacity="0.15"/></linearGradient><linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="0.45" stop-color="#ffffff" stop-opacity="0.05"/><stop offset="0.55" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.35"/></linearGradient><filter id="softglow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f59e0b"/></marker></defs>
+<rect x="15" y="15" width="870" height="390" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="450.0" y="48.0" font-size="17" fill="#fbbf24" text-anchor="middle" font-weight="bold">Where the 100 questions come from: one per topic area</text>
+<ellipse cx="110.5" cy="325.0" rx="46.5" ry="5.4" fill="#000" fill-opacity="0.4"/>
+<polygon points="70.0,120.0 130.0,120.0 151.0,106.5 91.0,106.5" fill="#f8bb54"/>
+<rect x="70.0" y="120.0" width="60.0" height="200.0" fill="#f59e0b"/>
+<rect x="70.0" y="120.0" width="60.0" height="200.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="130.0,320.0 130.0,120.0 151.0,106.5 151.0,306.5" fill="#865606"/>
+<text x="110.0" y="98.0" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">25</text>
+<text x="100.0" y="344.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="bold">B-001</text>
+<text x="100.0" y="362.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">Regulations</text>
+<ellipse cx="210.5" cy="325.0" rx="46.5" ry="5.4" fill="#000" fill-opacity="0.4"/>
+<polygon points="170.0,248.0 230.0,248.0 251.0,234.5 191.0,234.5" fill="#808895"/>
+<rect x="170.0" y="248.0" width="60.0" height="72.0" fill="#4a5568"/>
+<rect x="170.0" y="248.0" width="60.0" height="72.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="230.0,320.0 230.0,248.0 251.0,234.5 251.0,306.5" fill="#282e39"/>
+<text x="210.0" y="226.0" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">9</text>
+<text x="200.0" y="344.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="bold">B-002</text>
+<text x="200.0" y="362.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">Operating</text>
+<ellipse cx="310.5" cy="325.0" rx="46.5" ry="5.4" fill="#000" fill-opacity="0.4"/>
+<polygon points="270.0,152.0 330.0,152.0 351.0,138.5 291.0,138.5" fill="#808895"/>
+<rect x="270.0" y="152.0" width="60.0" height="168.0" fill="#4a5568"/>
+<rect x="270.0" y="152.0" width="60.0" height="168.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="330.0,320.0 330.0,152.0 351.0,138.5 351.0,306.5" fill="#282e39"/>
+<text x="310.0" y="130.0" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">21</text>
+<text x="300.0" y="344.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="bold">B-003</text>
+<text x="300.0" y="362.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">Station, safety</text>
+<ellipse cx="410.5" cy="325.0" rx="46.5" ry="5.4" fill="#000" fill-opacity="0.4"/>
+<polygon points="370.0,272.0 430.0,272.0 451.0,258.5 391.0,258.5" fill="#808895"/>
+<rect x="370.0" y="272.0" width="60.0" height="48.0" fill="#4a5568"/>
+<rect x="370.0" y="272.0" width="60.0" height="48.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="430.0,320.0 430.0,272.0 451.0,258.5 451.0,306.5" fill="#282e39"/>
+<text x="410.0" y="250.0" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">6</text>
+<text x="400.0" y="344.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="bold">B-004</text>
+<text x="400.0" y="362.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">Components</text>
+<ellipse cx="510.5" cy="325.0" rx="46.5" ry="5.4" fill="#000" fill-opacity="0.4"/>
+<polygon points="470.0,216.0 530.0,216.0 551.0,202.5 491.0,202.5" fill="#808895"/>
+<rect x="470.0" y="216.0" width="60.0" height="104.0" fill="#4a5568"/>
+<rect x="470.0" y="216.0" width="60.0" height="104.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="530.0,320.0 530.0,216.0 551.0,202.5 551.0,306.5" fill="#282e39"/>
+<text x="510.0" y="194.0" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">13</text>
+<text x="500.0" y="344.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="bold">B-005</text>
+<text x="500.0" y="362.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">Electronics</text>
+<ellipse cx="610.5" cy="325.0" rx="46.5" ry="5.4" fill="#000" fill-opacity="0.4"/>
+<polygon points="570.0,216.0 630.0,216.0 651.0,202.5 591.0,202.5" fill="#808895"/>
+<rect x="570.0" y="216.0" width="60.0" height="104.0" fill="#4a5568"/>
+<rect x="570.0" y="216.0" width="60.0" height="104.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="630.0,320.0 630.0,216.0 651.0,202.5 651.0,306.5" fill="#282e39"/>
+<text x="610.0" y="194.0" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">13</text>
+<text x="600.0" y="344.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="bold">B-006</text>
+<text x="600.0" y="362.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">Antennas</text>
+<ellipse cx="710.5" cy="325.0" rx="46.5" ry="5.4" fill="#000" fill-opacity="0.4"/>
+<polygon points="670.0,256.0 730.0,256.0 751.0,242.5 691.0,242.5" fill="#808895"/>
+<rect x="670.0" y="256.0" width="60.0" height="64.0" fill="#4a5568"/>
+<rect x="670.0" y="256.0" width="60.0" height="64.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="730.0,320.0 730.0,256.0 751.0,242.5 751.0,306.5" fill="#282e39"/>
+<text x="710.0" y="234.0" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">8</text>
+<text x="700.0" y="344.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="bold">B-007</text>
+<text x="700.0" y="362.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">Propagation</text>
+<ellipse cx="810.5" cy="325.0" rx="46.5" ry="5.4" fill="#000" fill-opacity="0.4"/>
+<polygon points="770.0,280.0 830.0,280.0 851.0,266.5 791.0,266.5" fill="#808895"/>
+<rect x="770.0" y="280.0" width="60.0" height="40.0" fill="#4a5568"/>
+<rect x="770.0" y="280.0" width="60.0" height="40.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="830.0,320.0 830.0,280.0 851.0,266.5 851.0,306.5" fill="#282e39"/>
+<text x="810.0" y="258.0" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">5</text>
+<text x="800.0" y="344.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="bold">B-008</text>
+<text x="800.0" y="362.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">Interference</text>
+<text x="450.0" y="82.0" font-size="12" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">100 topic areas in all; this article is part of B-001, a quarter of the exam</text>
+</svg>

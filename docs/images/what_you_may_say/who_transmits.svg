@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400" role="img" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">
+<title>Three panels. A certificate holder at the controls transmits within their own privileges: allowed. A guest with a certificate holder present and supervising: allowed, under section 46 of the Regulations. A guest alone, with no holder present: not allowed, even on the holder's radio.</title>
+<defs><radialGradient id="eball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#cbd5e0"/><stop offset="1" stop-color="#4a5568"/></radialGradient><radialGradient id="vball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff7e0"/><stop offset="0.45" stop-color="#f59e0b"/><stop offset="1" stop-color="#92400e"/></radialGradient><radialGradient id="core" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#e2e8f0"/><stop offset="0.45" stop-color="#718096"/><stop offset="1" stop-color="#1a202c"/></radialGradient><radialGradient id="silverball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#c0c6cf"/><stop offset="1" stop-color="#5a6270"/></radialGradient><radialGradient id="copperball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffd2b0"/><stop offset="0.45" stop-color="#c8733c"/><stop offset="1" stop-color="#5e2b10"/></radialGradient><radialGradient id="goldball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff3b0"/><stop offset="0.45" stop-color="#e6b422"/><stop offset="1" stop-color="#7a5a00"/></radialGradient><radialGradient id="alball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#f0f6ff"/><stop offset="0.45" stop-color="#a8b8cc"/><stop offset="1" stop-color="#4a5868"/></radialGradient><radialGradient id="glow" r="50%"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.55"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient><linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d3748" stop-opacity="0.45"/><stop offset="1" stop-color="#1a202c" stop-opacity="0.15"/></linearGradient><linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="0.45" stop-color="#ffffff" stop-opacity="0.05"/><stop offset="0.55" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.35"/></linearGradient><filter id="softglow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f59e0b"/></marker></defs>
+<rect x="15" y="15" width="280" height="370" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="155.0" y="50.0" font-size="14" fill="#fbbf24" text-anchor="middle" font-weight="bold">Certificate holder</text>
+<text x="155.0" y="70.0" font-size="12" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">at the controls</text>
+<ellipse cx="169.0" cy="255.0" rx="80.0" ry="7.2" fill="#000" fill-opacity="0.4"/>
+<polygon points="95.0,190.0 215.0,190.0 243.0,172.0 123.0,172.0" fill="#808895"/>
+<rect x="95.0" y="190.0" width="120.0" height="60.0" fill="#4a5568"/>
+<rect x="95.0" y="190.0" width="120.0" height="60.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="215.0,250.0 215.0,190.0 243.0,172.0 243.0,232.0" fill="#282e39"/>
+<text x="155.0" y="222.0" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="bold">station</text>
+<circle cx="115" cy="98" r="13" fill="#4299e1"/>
+<rect x="102" y="115" width="26" height="32" rx="10" fill="#4299e1"/>
+<text x="115.0" y="164.0" font-size="11" fill="#e6e6e6" text-anchor="middle" font-weight="normal">holder</text>
+<rect x="90.0" y="285.0" width="130" height="30" rx="15.0" fill="#48bb78"/>
+<rect x="90.0" y="285.0" width="130" height="30" rx="15.0" fill="url(#gloss)"/>
+<text x="155.0" y="304.7" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="bold">allowed</text>
+<text x="155.0" y="345.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">transmits within their own privileges</text>
+<rect x="310" y="15" width="280" height="370" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="450.0" y="50.0" font-size="14" fill="#fbbf24" text-anchor="middle" font-weight="bold">Guest with a holder present</text>
+<text x="450.0" y="70.0" font-size="12" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">the holder supervises</text>
+<ellipse cx="464.0" cy="255.0" rx="80.0" ry="7.2" fill="#000" fill-opacity="0.4"/>
+<polygon points="390.0,190.0 510.0,190.0 538.0,172.0 418.0,172.0" fill="#808895"/>
+<rect x="390.0" y="190.0" width="120.0" height="60.0" fill="#4a5568"/>
+<rect x="390.0" y="190.0" width="120.0" height="60.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="510.0,250.0 510.0,190.0 538.0,172.0 538.0,232.0" fill="#282e39"/>
+<text x="450.0" y="222.0" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="bold">station</text>
+<circle cx="410" cy="98" r="13" fill="#f59e0b"/>
+<rect x="397" y="115" width="26" height="32" rx="10" fill="#f59e0b"/>
+<text x="410.0" y="164.0" font-size="11" fill="#e6e6e6" text-anchor="middle" font-weight="normal">guest</text>
+<circle cx="490" cy="98" r="13" fill="#4299e1"/>
+<rect x="477" y="115" width="26" height="32" rx="10" fill="#4299e1"/>
+<text x="490.0" y="164.0" font-size="11" fill="#e6e6e6" text-anchor="middle" font-weight="normal">holder</text>
+<rect x="385.0" y="285.0" width="130" height="30" rx="15.0" fill="#48bb78"/>
+<rect x="385.0" y="285.0" width="130" height="30" rx="15.0" fill="url(#gloss)"/>
+<text x="450.0" y="304.7" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="bold">allowed</text>
+<text x="450.0" y="345.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">Regulations s. 46: in the holder's presence</text>
+<rect x="605" y="15" width="280" height="370" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="745.0" y="50.0" font-size="14" fill="#fbbf24" text-anchor="middle" font-weight="bold">Guest alone</text>
+<text x="745.0" y="70.0" font-size="12" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">no holder present</text>
+<ellipse cx="759.0" cy="255.0" rx="80.0" ry="7.2" fill="#000" fill-opacity="0.4"/>
+<polygon points="685.0,190.0 805.0,190.0 833.0,172.0 713.0,172.0" fill="#808895"/>
+<rect x="685.0" y="190.0" width="120.0" height="60.0" fill="#4a5568"/>
+<rect x="685.0" y="190.0" width="120.0" height="60.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="805.0,250.0 805.0,190.0 833.0,172.0 833.0,232.0" fill="#282e39"/>
+<text x="745.0" y="222.0" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="bold">station</text>
+<circle cx="745" cy="98" r="13" fill="#f59e0b"/>
+<rect x="732" y="115" width="26" height="32" rx="10" fill="#f59e0b"/>
+<text x="745.0" y="164.0" font-size="11" fill="#e6e6e6" text-anchor="middle" font-weight="normal">guest</text>
+<rect x="680.0" y="285.0" width="130" height="30" rx="15.0" fill="#fc8181"/>
+<rect x="680.0" y="285.0" width="130" height="30" rx="15.0" fill="url(#gloss)"/>
+<text x="745.0" y="304.7" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="bold">not allowed</text>
+<text x="745.0" y="345.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">not allowed, even on the holder's radio</text>
+</svg>

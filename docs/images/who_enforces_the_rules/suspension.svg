@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">
+<title>Three routes to suspension or revocation under section 5(2) of the Radiocommunication Act. With the holder's consent. After written notice and a reasonable opportunity to make representations, where the holder broke the Act, the Regulations or the certificate's conditions, or obtained it by misrepresentation. On written notice alone, with no opportunity to make representations, where the holder failed to pay fees or interest owed. Never with no notice at all.</title>
+<defs><radialGradient id="eball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#cbd5e0"/><stop offset="1" stop-color="#4a5568"/></radialGradient><radialGradient id="vball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff7e0"/><stop offset="0.45" stop-color="#f59e0b"/><stop offset="1" stop-color="#92400e"/></radialGradient><radialGradient id="core" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#e2e8f0"/><stop offset="0.45" stop-color="#718096"/><stop offset="1" stop-color="#1a202c"/></radialGradient><radialGradient id="silverball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#c0c6cf"/><stop offset="1" stop-color="#5a6270"/></radialGradient><radialGradient id="copperball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffd2b0"/><stop offset="0.45" stop-color="#c8733c"/><stop offset="1" stop-color="#5e2b10"/></radialGradient><radialGradient id="goldball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff3b0"/><stop offset="0.45" stop-color="#e6b422"/><stop offset="1" stop-color="#7a5a00"/></radialGradient><radialGradient id="alball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#f0f6ff"/><stop offset="0.45" stop-color="#a8b8cc"/><stop offset="1" stop-color="#4a5868"/></radialGradient><radialGradient id="glow" r="50%"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.55"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient><linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d3748" stop-opacity="0.45"/><stop offset="1" stop-color="#1a202c" stop-opacity="0.15"/></linearGradient><linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="0.45" stop-color="#ffffff" stop-opacity="0.05"/><stop offset="0.55" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.35"/></linearGradient><filter id="softglow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f59e0b"/></marker></defs>
+<rect x="15" y="15" width="870" height="390" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="450.0" y="48.0" font-size="16" fill="#fbbf24" text-anchor="middle" font-weight="bold">Three ways the Minister may suspend or revoke a certificate (Act s. 5(2))</text>
+<ellipse cx="184.0" cy="155.0" rx="75.0" ry="7.2" fill="#000" fill-opacity="0.4"/>
+<polygon points="115.0,95.0 225.0,95.0 253.0,77.0 143.0,77.0" fill="#7ecfa0"/>
+<rect x="115.0" y="95.0" width="110.0" height="55.0" fill="#48bb78"/>
+<rect x="115.0" y="95.0" width="110.0" height="55.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="225.0,150.0 225.0,95.0 253.0,77.0 253.0,132.0" fill="#276642"/>
+<text x="170.0" y="185.0" font-size="14" fill="#e6e6e6" text-anchor="middle" font-weight="bold">With your consent</text>
+<text x="170.0" y="215.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">you agree to it</text>
+<rect x="45.0" y="336.0" width="250" height="28" rx="14.0" fill="#2e794e"/>
+<rect x="45.0" y="336.0" width="250" height="28" rx="14.0" fill="url(#gloss)"/>
+<text x="170.0" y="354.0" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="bold">nothing more needed</text>
+<ellipse cx="464.0" cy="155.0" rx="75.0" ry="7.2" fill="#000" fill-opacity="0.4"/>
+<polygon points="395.0,95.0 505.0,95.0 533.0,77.0 423.0,77.0" fill="#f8bb54"/>
+<rect x="395.0" y="95.0" width="110.0" height="55.0" fill="#f59e0b"/>
+<rect x="395.0" y="95.0" width="110.0" height="55.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="505.0,150.0 505.0,95.0 533.0,77.0 533.0,132.0" fill="#865606"/>
+<text x="450.0" y="185.0" font-size="14" fill="#e6e6e6" text-anchor="middle" font-weight="bold">After notice and a reply</text>
+<text x="450.0" y="215.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">you broke the Act, the</text>
+<text x="450.0" y="237.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">Regulations, or the</text>
+<text x="450.0" y="259.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">certificate's conditions,</text>
+<text x="450.0" y="281.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">or you got it by</text>
+<text x="450.0" y="303.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">misrepresentation</text>
+<rect x="325.0" y="336.0" width="250" height="28" rx="14.0" fill="#9f6607"/>
+<rect x="325.0" y="336.0" width="250" height="28" rx="14.0" fill="url(#gloss)"/>
+<text x="450.0" y="354.0" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="bold">written notice + a chance to respond</text>
+<ellipse cx="744.0" cy="155.0" rx="75.0" ry="7.2" fill="#000" fill-opacity="0.4"/>
+<polygon points="675.0,95.0 785.0,95.0 813.0,77.0 703.0,77.0" fill="#fca6a6"/>
+<rect x="675.0" y="95.0" width="110.0" height="55.0" fill="#fc8181"/>
+<rect x="675.0" y="95.0" width="110.0" height="55.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="785.0,150.0 785.0,95.0 813.0,77.0 813.0,132.0" fill="#8a4646"/>
+<text x="730.0" y="185.0" font-size="14" fill="#e6e6e6" text-anchor="middle" font-weight="bold">On notice alone</text>
+<text x="730.0" y="215.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">you didn't pay fees</text>
+<text x="730.0" y="237.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">or interest owed</text>
+<rect x="605.0" y="336.0" width="250" height="28" rx="14.0" fill="#a35353"/>
+<rect x="605.0" y="336.0" width="250" height="28" rx="14.0" fill="url(#gloss)"/>
+<text x="730.0" y="354.0" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="bold">written notice only</text>
+<text x="450.0" y="394.0" font-size="12" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">Never with no notice at all.</text>
+</svg>

@@ -1,0 +1,40 @@
+[project]
+name = "exploring-radio"
+version = "0.1.0"
+description = "Amateur radio from first principles — the Canadian certificate exam, antennas, propagation, and getting on the air."
+authors = [
+    {name = "Brad Penney",email = "penney.brad@protonmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "mkdocs-material[imaging] (>=9.6.14,<10.0.0)",
+    "mkdocs (>=1.6.1,<2.0.0)",
+    "pymdown-extensions (>=10.15,<11.0)",
+    "mkdocs-htmlproofer-plugin (>=1.4.0,<2.0.0)",
+    "mkdocs-exclude (>=1.0.2,<2.0.0)",
+    "mkdocs-rss-plugin (>=1.19.0,<2.0.0)",
+]
+
+[tool.poetry]
+package-mode = false
+
+[tool.poetry.group.dev.dependencies]
+black = "^25.1.0"
+
+[tool.poetry.group.schematics]
+optional = true
+
+[tool.poetry.group.schematics.dependencies]
+schemdraw = "^0.23"
+
+
+[tool.poetry.group.anki]
+optional = true
+
+[tool.poetry.group.anki.dependencies]
+genanki = "^0.13.1"
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

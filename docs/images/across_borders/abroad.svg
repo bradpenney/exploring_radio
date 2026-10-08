@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900" height="470" role="img" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">
+<title>Four destinations for a Canadian operating abroad. United States: Basic is enough, no permit, carry your certificate, United States band edges and mode rules apply, and you identify with your call sign followed by portable and the United States call area. CEPT countries: Basic plus Advanced, a permit from Radio Amateurs of Canada, the host country's rules, and identification with the host prefix, then stroke and your call sign. IARP countries in the Americas: Basic, a permit from Radio Amateurs of Canada; Class 2 for Basic covers bands above 30 megahertz only, and Class 1 needs Morse code at 12 words per minute. Anywhere else: contact that country's administration well in advance. Outside Canada you follow the host country's rules.</title>
+<defs><radialGradient id="eball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#cbd5e0"/><stop offset="1" stop-color="#4a5568"/></radialGradient><radialGradient id="vball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff7e0"/><stop offset="0.45" stop-color="#f59e0b"/><stop offset="1" stop-color="#92400e"/></radialGradient><radialGradient id="core" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#e2e8f0"/><stop offset="0.45" stop-color="#718096"/><stop offset="1" stop-color="#1a202c"/></radialGradient><radialGradient id="silverball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#c0c6cf"/><stop offset="1" stop-color="#5a6270"/></radialGradient><radialGradient id="copperball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffd2b0"/><stop offset="0.45" stop-color="#c8733c"/><stop offset="1" stop-color="#5e2b10"/></radialGradient><radialGradient id="goldball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff3b0"/><stop offset="0.45" stop-color="#e6b422"/><stop offset="1" stop-color="#7a5a00"/></radialGradient><radialGradient id="alball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#f0f6ff"/><stop offset="0.45" stop-color="#a8b8cc"/><stop offset="1" stop-color="#4a5868"/></radialGradient><radialGradient id="glow" r="50%"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.55"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient><linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d3748" stop-opacity="0.45"/><stop offset="1" stop-color="#1a202c" stop-opacity="0.15"/></linearGradient><linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="0.45" stop-color="#ffffff" stop-opacity="0.05"/><stop offset="0.55" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.35"/></linearGradient><filter id="softglow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f59e0b"/></marker></defs>
+<rect x="15" y="15" width="205" height="440" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="117.0" y="50.0" font-size="14" fill="#fbbf24" text-anchor="middle" font-weight="bold">United States</text>
+<ellipse cx="129.2" cy="150.0" rx="63.2" ry="6.3" fill="#000" fill-opacity="0.4"/>
+<polygon points="72.0,95.0 162.0,95.0 186.5,79.2 96.5,79.2" fill="#7ab7ea"/>
+<rect x="72.0" y="95.0" width="90.0" height="50.0" fill="#4299e1"/>
+<rect x="72.0" y="95.0" width="90.0" height="50.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="162.0,145.0 162.0,95.0 186.5,79.2 186.5,129.2" fill="#24547b"/>
+<text x="117.0" y="182.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">minimum</text>
+<rect x="32.0" y="193.0" width="170" height="28" rx="14.0" fill="#4299e1"/>
+<rect x="32.0" y="193.0" width="170" height="28" rx="14.0" fill="url(#gloss)"/>
+<text x="117.0" y="211.3" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="bold">Basic</text>
+<text x="117.0" y="256.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">no permit; carry your</text>
+<text x="117.0" y="280.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">certificate</text>
+<text x="117.0" y="304.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">US band edges and</text>
+<text x="117.0" y="328.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">mode rules apply</text>
+<text x="117.0" y="352.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">ID: call sign, then</text>
+<text x="117.0" y="376.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">"portable" + US area</text>
+<rect x="235" y="15" width="205" height="440" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="337.0" y="50.0" font-size="14" fill="#fbbf24" text-anchor="middle" font-weight="bold">CEPT countries</text>
+<ellipse cx="349.2" cy="150.0" rx="63.2" ry="6.3" fill="#000" fill-opacity="0.4"/>
+<polygon points="292.0,95.0 382.0,95.0 406.5,79.2 316.5,79.2" fill="#bba1f0"/>
+<rect x="292.0" y="95.0" width="90.0" height="50.0" fill="#9f7aea"/>
+<rect x="292.0" y="95.0" width="90.0" height="50.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="382.0,145.0 382.0,95.0 406.5,79.2 406.5,129.2" fill="#574380"/>
+<text x="337.0" y="182.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">minimum</text>
+<rect x="252.0" y="193.0" width="170" height="28" rx="14.0" fill="#9f7aea"/>
+<rect x="252.0" y="193.0" width="170" height="28" rx="14.0" fill="url(#gloss)"/>
+<text x="337.0" y="211.3" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="bold">Basic + Advanced</text>
+<text x="337.0" y="256.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">permit from Radio</text>
+<text x="337.0" y="280.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">Amateurs of Canada</text>
+<text x="337.0" y="304.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">host country's rules</text>
+<text x="337.0" y="328.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">apply</text>
+<text x="337.0" y="352.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">ID: host prefix,</text>
+<text x="337.0" y="376.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">then "stroke" + call</text>
+<rect x="455" y="15" width="205" height="440" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="557.0" y="50.0" font-size="14" fill="#fbbf24" text-anchor="middle" font-weight="bold">IARP (Americas)</text>
+<ellipse cx="569.2" cy="150.0" rx="63.2" ry="6.3" fill="#000" fill-opacity="0.4"/>
+<polygon points="512.0,95.0 602.0,95.0 626.5,79.2 536.5,79.2" fill="#73c9c4"/>
+<rect x="512.0" y="95.0" width="90.0" height="50.0" fill="#38b2ac"/>
+<rect x="512.0" y="95.0" width="90.0" height="50.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="602.0,145.0 602.0,95.0 626.5,79.2 626.5,129.2" fill="#1e615e"/>
+<text x="557.0" y="182.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">minimum</text>
+<rect x="472.0" y="193.0" width="170" height="28" rx="14.0" fill="#38b2ac"/>
+<rect x="472.0" y="193.0" width="170" height="28" rx="14.0" fill="url(#gloss)"/>
+<text x="557.0" y="211.3" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="bold">Basic</text>
+<text x="557.0" y="256.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">permit from Radio</text>
+<text x="557.0" y="280.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">Amateurs of Canada</text>
+<text x="557.0" y="304.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">Class 2 (Basic):</text>
+<text x="557.0" y="328.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">above 30 MHz only</text>
+<text x="557.0" y="352.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">Class 1 needs</text>
+<text x="557.0" y="376.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">Morse (12 w.p.m.)</text>
+<rect x="675" y="15" width="205" height="440" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="777.0" y="50.0" font-size="14" fill="#fbbf24" text-anchor="middle" font-weight="bold">Anywhere else</text>
+<ellipse cx="789.2" cy="150.0" rx="63.2" ry="6.3" fill="#000" fill-opacity="0.4"/>
+<polygon points="732.0,95.0 822.0,95.0 846.5,79.2 756.5,79.2" fill="#bcc6d2"/>
+<rect x="732.0" y="95.0" width="90.0" height="50.0" fill="#a0aec0"/>
+<rect x="732.0" y="95.0" width="90.0" height="50.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="822.0,145.0 822.0,95.0 846.5,79.2 846.5,129.2" fill="#585f69"/>
+<text x="777.0" y="182.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">minimum</text>
+<rect x="692.0" y="193.0" width="170" height="28" rx="14.0" fill="#4a5568"/>
+<rect x="692.0" y="193.0" width="170" height="28" rx="14.0" fill="url(#gloss)"/>
+<text x="777.0" y="211.3" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="bold">ask first</text>
+<text x="777.0" y="256.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">contact the country's</text>
+<text x="777.0" y="280.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">administration well</text>
+<text x="777.0" y="304.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">in advance</text>
+<text x="777.0" y="328.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal"></text>
+<text x="777.0" y="352.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">its rules, its</text>
+<text x="777.0" y="376.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">conditions</text>
+<text x="450.0" y="408.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">Outside Canada you follow the host country's rules (RBR-4 s. 7; RIC-3 s. 8).</text>
+<text x="450.0" y="426.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">A Canadian-issued CEPT permit or IARP has no legal status in Canada.</text>
+</svg>

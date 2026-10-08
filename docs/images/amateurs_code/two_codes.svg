@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 470" width="900" height="470" role="img" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">
+<title>Two codes of conduct drawn as rows of pillars. Left, the Code of Ethics for Canadian Amateur Radio Operators by Bill Wilson, VE3NR, 1997: Responsible, Progressive, Helpful, Public Spirited. Right, The Radio Amateur's Code by Paul M. Segal, W9EEA, 1928: Considerate, Loyal, Progressive, Friendly, Balanced, Patriotic.</title>
+<defs><radialGradient id="eball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#cbd5e0"/><stop offset="1" stop-color="#4a5568"/></radialGradient><radialGradient id="vball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff7e0"/><stop offset="0.45" stop-color="#f59e0b"/><stop offset="1" stop-color="#92400e"/></radialGradient><radialGradient id="core" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#e2e8f0"/><stop offset="0.45" stop-color="#718096"/><stop offset="1" stop-color="#1a202c"/></radialGradient><radialGradient id="silverball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#c0c6cf"/><stop offset="1" stop-color="#5a6270"/></radialGradient><radialGradient id="copperball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffd2b0"/><stop offset="0.45" stop-color="#c8733c"/><stop offset="1" stop-color="#5e2b10"/></radialGradient><radialGradient id="goldball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff3b0"/><stop offset="0.45" stop-color="#e6b422"/><stop offset="1" stop-color="#7a5a00"/></radialGradient><radialGradient id="alball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#f0f6ff"/><stop offset="0.45" stop-color="#a8b8cc"/><stop offset="1" stop-color="#4a5868"/></radialGradient><radialGradient id="glow" r="50%"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.55"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient><linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d3748" stop-opacity="0.45"/><stop offset="1" stop-color="#1a202c" stop-opacity="0.15"/></linearGradient><linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="0.45" stop-color="#ffffff" stop-opacity="0.05"/><stop offset="0.55" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.35"/></linearGradient><filter id="softglow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f59e0b"/></marker></defs>
+<rect x="15" y="15" width="390" height="440" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="210.0" y="50.0" font-size="15" fill="#fbbf24" text-anchor="middle" font-weight="bold">Code of Ethics for Canadian</text>
+<text x="210.0" y="70.0" font-size="15" fill="#fbbf24" text-anchor="middle" font-weight="bold">Amateur Radio Operators</text>
+<text x="210.0" y="92.0" font-size="12" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">Bill Wilson, VE3NR · 1997</text>
+<ellipse cx="90.1" cy="335.0" rx="51.1" ry="5.0" fill="#000" fill-opacity="0.4"/>
+<polygon points="45.0,180.0 117.0,180.0 135.2,168.3 63.2,168.3" fill="#cca162"/>
+<rect x="45.0" y="180.0" width="72.0" height="150.0" fill="#b7791f"/>
+<rect x="45.0" y="180.0" width="72.0" height="150.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="117.0,330.0 117.0,180.0 135.2,168.3 135.2,318.3" fill="#644211"/>
+<polygon points="39.0,168.0 123.0,168.0 144.0,154.5 60.0,154.5" fill="#dae1e9"/>
+<rect x="39.0" y="168.0" width="84.0" height="12.0" fill="#cbd5e0"/>
+<rect x="39.0" y="168.0" width="84.0" height="12.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="123.0,180.0 123.0,168.0 144.0,154.5 144.0,166.5" fill="#6f757b"/>
+<polygon points="39.0,330.0 123.0,330.0 144.0,316.5 60.0,316.5" fill="#bcc6d2"/>
+<rect x="39.0" y="330.0" width="84.0" height="10.0" fill="#a0aec0"/>
+<rect x="39.0" y="330.0" width="84.0" height="10.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="123.0,340.0 123.0,330.0 144.0,316.5 144.0,326.5" fill="#585f69"/>
+<text x="86.0" y="255.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" transform="rotate(-90 86.0 255.0)">Responsible</text>
+<polygon points="131.0,180.0 203.0,180.0 221.2,168.3 149.2,168.3" fill="#cca162"/>
+<rect x="131.0" y="180.0" width="72.0" height="150.0" fill="#b7791f"/>
+<rect x="131.0" y="180.0" width="72.0" height="150.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="203.0,330.0 203.0,180.0 221.2,168.3 221.2,318.3" fill="#644211"/>
+<polygon points="125.0,168.0 209.0,168.0 230.0,154.5 146.0,154.5" fill="#dae1e9"/>
+<rect x="125.0" y="168.0" width="84.0" height="12.0" fill="#cbd5e0"/>
+<rect x="125.0" y="168.0" width="84.0" height="12.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="209.0,180.0 209.0,168.0 230.0,154.5 230.0,166.5" fill="#6f757b"/>
+<polygon points="125.0,330.0 209.0,330.0 230.0,316.5 146.0,316.5" fill="#bcc6d2"/>
+<rect x="125.0" y="330.0" width="84.0" height="10.0" fill="#a0aec0"/>
+<rect x="125.0" y="330.0" width="84.0" height="10.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="209.0,340.0 209.0,330.0 230.0,316.5 230.0,326.5" fill="#585f69"/>
+<text x="172.0" y="255.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" transform="rotate(-90 172.0 255.0)">Progressive</text>
+<polygon points="217.0,180.0 289.0,180.0 307.2,168.3 235.2,168.3" fill="#cca162"/>
+<rect x="217.0" y="180.0" width="72.0" height="150.0" fill="#b7791f"/>
+<rect x="217.0" y="180.0" width="72.0" height="150.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="289.0,330.0 289.0,180.0 307.2,168.3 307.2,318.3" fill="#644211"/>
+<polygon points="211.0,168.0 295.0,168.0 316.0,154.5 232.0,154.5" fill="#dae1e9"/>
+<rect x="211.0" y="168.0" width="84.0" height="12.0" fill="#cbd5e0"/>
+<rect x="211.0" y="168.0" width="84.0" height="12.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="295.0,180.0 295.0,168.0 316.0,154.5 316.0,166.5" fill="#6f757b"/>
+<polygon points="211.0,330.0 295.0,330.0 316.0,316.5 232.0,316.5" fill="#bcc6d2"/>
+<rect x="211.0" y="330.0" width="84.0" height="10.0" fill="#a0aec0"/>
+<rect x="211.0" y="330.0" width="84.0" height="10.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="295.0,340.0 295.0,330.0 316.0,316.5 316.0,326.5" fill="#585f69"/>
+<text x="258.0" y="255.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" transform="rotate(-90 258.0 255.0)">Helpful</text>
+<polygon points="303.0,180.0 375.0,180.0 393.2,168.3 321.2,168.3" fill="#cca162"/>
+<rect x="303.0" y="180.0" width="72.0" height="150.0" fill="#b7791f"/>
+<rect x="303.0" y="180.0" width="72.0" height="150.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="375.0,330.0 375.0,180.0 393.2,168.3 393.2,318.3" fill="#644211"/>
+<polygon points="297.0,168.0 381.0,168.0 402.0,154.5 318.0,154.5" fill="#dae1e9"/>
+<rect x="297.0" y="168.0" width="84.0" height="12.0" fill="#cbd5e0"/>
+<rect x="297.0" y="168.0" width="84.0" height="12.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="381.0,180.0 381.0,168.0 402.0,154.5 402.0,166.5" fill="#6f757b"/>
+<polygon points="297.0,330.0 381.0,330.0 402.0,316.5 318.0,316.5" fill="#bcc6d2"/>
+<rect x="297.0" y="330.0" width="84.0" height="10.0" fill="#a0aec0"/>
+<rect x="297.0" y="330.0" width="84.0" height="10.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="381.0,340.0 381.0,330.0 402.0,316.5 402.0,326.5" fill="#585f69"/>
+<text x="344.0" y="255.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" transform="rotate(-90 344.0 255.0)">Public Spirited</text>
+<text x="210.0" y="400.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">four qualities of</text>
+<text x="210.0" y="418.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">"the thoughtful Radio Amateur"</text>
+<rect x="420" y="15" width="465" height="440" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="652.0" y="50.0" font-size="15" fill="#fbbf24" text-anchor="middle" font-weight="bold">The Radio Amateur's Code</text>
+<text x="652.0" y="72.0" font-size="12" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">Paul M. Segal, W9EEA · 1928</text>
+<ellipse cx="483.1" cy="335.0" rx="44.1" ry="5.0" fill="#000" fill-opacity="0.4"/>
+<polygon points="445.0,180.0 503.0,180.0 521.2,168.3 463.2,168.3" fill="#6b85a7"/>
+<rect x="445.0" y="180.0" width="58.0" height="150.0" fill="#2c5282"/>
+<rect x="445.0" y="180.0" width="58.0" height="150.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="503.0,330.0 503.0,180.0 521.2,168.3 521.2,318.3" fill="#182d47"/>
+<polygon points="439.0,168.0 509.0,168.0 530.0,154.5 460.0,154.5" fill="#dae1e9"/>
+<rect x="439.0" y="168.0" width="70.0" height="12.0" fill="#cbd5e0"/>
+<rect x="439.0" y="168.0" width="70.0" height="12.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="509.0,180.0 509.0,168.0 530.0,154.5 530.0,166.5" fill="#6f757b"/>
+<polygon points="439.0,330.0 509.0,330.0 530.0,316.5 460.0,316.5" fill="#bcc6d2"/>
+<rect x="439.0" y="330.0" width="70.0" height="10.0" fill="#a0aec0"/>
+<rect x="439.0" y="330.0" width="70.0" height="10.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="509.0,340.0 509.0,330.0 530.0,316.5 530.0,326.5" fill="#585f69"/>
+<text x="479.0" y="255.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" transform="rotate(-90 479.0 255.0)">Considerate</text>
+<polygon points="515.0,180.0 573.0,180.0 591.2,168.3 533.2,168.3" fill="#6b85a7"/>
+<rect x="515.0" y="180.0" width="58.0" height="150.0" fill="#2c5282"/>
+<rect x="515.0" y="180.0" width="58.0" height="150.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="573.0,330.0 573.0,180.0 591.2,168.3 591.2,318.3" fill="#182d47"/>
+<polygon points="509.0,168.0 579.0,168.0 600.0,154.5 530.0,154.5" fill="#dae1e9"/>
+<rect x="509.0" y="168.0" width="70.0" height="12.0" fill="#cbd5e0"/>
+<rect x="509.0" y="168.0" width="70.0" height="12.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="579.0,180.0 579.0,168.0 600.0,154.5 600.0,166.5" fill="#6f757b"/>
+<polygon points="509.0,330.0 579.0,330.0 600.0,316.5 530.0,316.5" fill="#bcc6d2"/>
+<rect x="509.0" y="330.0" width="70.0" height="10.0" fill="#a0aec0"/>
+<rect x="509.0" y="330.0" width="70.0" height="10.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="579.0,340.0 579.0,330.0 600.0,316.5 600.0,326.5" fill="#585f69"/>
+<text x="549.0" y="255.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" transform="rotate(-90 549.0 255.0)">Loyal</text>
+<polygon points="585.0,180.0 643.0,180.0 661.2,168.3 603.2,168.3" fill="#6b85a7"/>
+<rect x="585.0" y="180.0" width="58.0" height="150.0" fill="#2c5282"/>
+<rect x="585.0" y="180.0" width="58.0" height="150.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="643.0,330.0 643.0,180.0 661.2,168.3 661.2,318.3" fill="#182d47"/>
+<polygon points="579.0,168.0 649.0,168.0 670.0,154.5 600.0,154.5" fill="#dae1e9"/>
+<rect x="579.0" y="168.0" width="70.0" height="12.0" fill="#cbd5e0"/>
+<rect x="579.0" y="168.0" width="70.0" height="12.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="649.0,180.0 649.0,168.0 670.0,154.5 670.0,166.5" fill="#6f757b"/>
+<polygon points="579.0,330.0 649.0,330.0 670.0,316.5 600.0,316.5" fill="#bcc6d2"/>
+<rect x="579.0" y="330.0" width="70.0" height="10.0" fill="#a0aec0"/>
+<rect x="579.0" y="330.0" width="70.0" height="10.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="649.0,340.0 649.0,330.0 670.0,316.5 670.0,326.5" fill="#585f69"/>
+<text x="619.0" y="255.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" transform="rotate(-90 619.0 255.0)">Progressive</text>
+<polygon points="655.0,180.0 713.0,180.0 731.2,168.3 673.2,168.3" fill="#6b85a7"/>
+<rect x="655.0" y="180.0" width="58.0" height="150.0" fill="#2c5282"/>
+<rect x="655.0" y="180.0" width="58.0" height="150.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="713.0,330.0 713.0,180.0 731.2,168.3 731.2,318.3" fill="#182d47"/>
+<polygon points="649.0,168.0 719.0,168.0 740.0,154.5 670.0,154.5" fill="#dae1e9"/>
+<rect x="649.0" y="168.0" width="70.0" height="12.0" fill="#cbd5e0"/>
+<rect x="649.0" y="168.0" width="70.0" height="12.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="719.0,180.0 719.0,168.0 740.0,154.5 740.0,166.5" fill="#6f757b"/>
+<polygon points="649.0,330.0 719.0,330.0 740.0,316.5 670.0,316.5" fill="#bcc6d2"/>
+<rect x="649.0" y="330.0" width="70.0" height="10.0" fill="#a0aec0"/>
+<rect x="649.0" y="330.0" width="70.0" height="10.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="719.0,340.0 719.0,330.0 740.0,316.5 740.0,326.5" fill="#585f69"/>
+<text x="689.0" y="255.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" transform="rotate(-90 689.0 255.0)">Friendly</text>
+<polygon points="725.0,180.0 783.0,180.0 801.2,168.3 743.2,168.3" fill="#6b85a7"/>
+<rect x="725.0" y="180.0" width="58.0" height="150.0" fill="#2c5282"/>
+<rect x="725.0" y="180.0" width="58.0" height="150.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="783.0,330.0 783.0,180.0 801.2,168.3 801.2,318.3" fill="#182d47"/>
+<polygon points="719.0,168.0 789.0,168.0 810.0,154.5 740.0,154.5" fill="#dae1e9"/>
+<rect x="719.0" y="168.0" width="70.0" height="12.0" fill="#cbd5e0"/>
+<rect x="719.0" y="168.0" width="70.0" height="12.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="789.0,180.0 789.0,168.0 810.0,154.5 810.0,166.5" fill="#6f757b"/>
+<polygon points="719.0,330.0 789.0,330.0 810.0,316.5 740.0,316.5" fill="#bcc6d2"/>
+<rect x="719.0" y="330.0" width="70.0" height="10.0" fill="#a0aec0"/>
+<rect x="719.0" y="330.0" width="70.0" height="10.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="789.0,340.0 789.0,330.0 810.0,316.5 810.0,326.5" fill="#585f69"/>
+<text x="759.0" y="255.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" transform="rotate(-90 759.0 255.0)">Balanced</text>
+<polygon points="795.0,180.0 853.0,180.0 871.2,168.3 813.2,168.3" fill="#6b85a7"/>
+<rect x="795.0" y="180.0" width="58.0" height="150.0" fill="#2c5282"/>
+<rect x="795.0" y="180.0" width="58.0" height="150.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="853.0,330.0 853.0,180.0 871.2,168.3 871.2,318.3" fill="#182d47"/>
+<polygon points="789.0,168.0 859.0,168.0 880.0,154.5 810.0,154.5" fill="#dae1e9"/>
+<rect x="789.0" y="168.0" width="70.0" height="12.0" fill="#cbd5e0"/>
+<rect x="789.0" y="168.0" width="70.0" height="12.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="859.0,180.0 859.0,168.0 880.0,154.5 880.0,166.5" fill="#6f757b"/>
+<polygon points="789.0,330.0 859.0,330.0 880.0,316.5 810.0,316.5" fill="#bcc6d2"/>
+<rect x="789.0" y="330.0" width="70.0" height="10.0" fill="#a0aec0"/>
+<rect x="789.0" y="330.0" width="70.0" height="10.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="859.0,340.0 859.0,330.0 880.0,316.5 880.0,326.5" fill="#585f69"/>
+<text x="829.0" y="255.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif" transform="rotate(-90 829.0 255.0)">Patriotic</text>
+<text x="652.0" y="400.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">six marks of</text>
+<text x="652.0" y="418.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">"the amateur spirit"</text>
+</svg>

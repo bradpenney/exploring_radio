@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 210" width="1000" height="210" style="max-width:100%;height:auto" role="group" aria-labelledby="gl-title gl-desc" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">
+<title id="gl-title">Getting Licensed reading order, as a transit map</title>
+<desc id="gl-desc">One line through six stops. The certificate: Getting Your Certificate; Using it: What You May Transmit, What You May Say, Across Borders, Who Enforces the Rules, Antennas and Neighbours. Every stop is a link to its article.</desc>
+<style>.tm-stop .tm-ring{stroke:#1a202c;stroke-width:3;transition:stroke .15s}.tm-stop:hover .tm-ring,.tm-stop:focus-visible .tm-ring{stroke:#ffffff;stroke-width:4}.tm-stop:hover .tm-lbl,.tm-stop:focus-visible .tm-lbl{fill:#ffffff;text-decoration:underline}.tm-stop:focus{outline:none}</style>
+<defs>
+<linearGradient id="gl-panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d3748" stop-opacity="0.45"/><stop offset="1" stop-color="#1a202c" stop-opacity="0.15"/></linearGradient>
+<radialGradient id="gl-ball-4299e1" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#b3d6f3"/><stop offset="0.45" stop-color="#4299e1"/><stop offset="1" stop-color="#1d4465"/></radialGradient>
+<radialGradient id="gl-ball-f59e0b" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fbd89d"/><stop offset="0.45" stop-color="#f59e0b"/><stop offset="1" stop-color="#6e4704"/></radialGradient>
+</defs>
+<rect x="15" y="15" width="970" height="180" rx="14" fill="url(#gl-panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="500.0" y="46.0" font-size="13" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">Click any stop to open its article</text>
+<path d="M112.0,120 L267.2,120" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="0.45" stroke-width="12" transform="translate(2,4)"/>
+<path d="M112.0,120 L267.2,120" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#f59e0b" stroke-width="10"/>
+<path d="M112.0,120 L267.2,120" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#face85" stroke-opacity="0.55" stroke-width="3" transform="translate(-1,-2)"/>
+<path d="M267.2,120 L422.4,120" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="0.45" stroke-width="12" transform="translate(2,4)"/>
+<path d="M267.2,120 L422.4,120" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#4299e1" stroke-width="10"/>
+<path d="M267.2,120 L422.4,120" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#a0ccf0" stroke-opacity="0.55" stroke-width="3" transform="translate(-1,-2)"/>
+<path d="M422.4,120 L577.6,120" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="0.45" stroke-width="12" transform="translate(2,4)"/>
+<path d="M422.4,120 L577.6,120" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#4299e1" stroke-width="10"/>
+<path d="M422.4,120 L577.6,120" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#a0ccf0" stroke-opacity="0.55" stroke-width="3" transform="translate(-1,-2)"/>
+<path d="M577.6,120 L732.8,120" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="0.45" stroke-width="12" transform="translate(2,4)"/>
+<path d="M577.6,120 L732.8,120" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#4299e1" stroke-width="10"/>
+<path d="M577.6,120 L732.8,120" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#a0ccf0" stroke-opacity="0.55" stroke-width="3" transform="translate(-1,-2)"/>
+<path d="M732.8,120 L888.0,120" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#000000" stroke-opacity="0.45" stroke-width="12" transform="translate(2,4)"/>
+<path d="M732.8,120 L888.0,120" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#4299e1" stroke-width="10"/>
+<path d="M732.8,120 L888.0,120" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke="#a0ccf0" stroke-opacity="0.55" stroke-width="3" transform="translate(-1,-2)"/>
+<text x="112.0" y="88.0" font-size="13" fill="#f7b648" text-anchor="middle" font-weight="bold">The certificate</text>
+<text x="577.6" y="88.0" font-size="13" fill="#71b2e8" text-anchor="middle" font-weight="bold">Using it</text>
+<a class="tm-stop" href="../getting_your_certificate/" aria-label="1. Getting Your Certificate">
+<title>1. Getting Your Certificate</title>
+<circle cx="114.0" cy="124" r="15" fill="#000000" fill-opacity="0.4"/>
+<circle class="tm-ring" cx="112.0" cy="120" r="15" fill="url(#gl-ball-f59e0b)"/>
+<text x="112.0" y="125" font-size="13" fill="#1a1a1a" text-anchor="middle" font-weight="bold">1</text>
+<text class="tm-lbl" x="112.0" y="158" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">Getting Your</text>
+<text class="tm-lbl" x="112.0" y="176" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">Certificate</text>
+</a>
+<a class="tm-stop" href="../what_you_may_transmit/" aria-label="2. What You May Transmit">
+<title>2. What You May Transmit</title>
+<circle cx="269.2" cy="124" r="15" fill="#000000" fill-opacity="0.4"/>
+<circle class="tm-ring" cx="267.2" cy="120" r="15" fill="url(#gl-ball-4299e1)"/>
+<text x="267.2" y="125" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="bold">2</text>
+<text class="tm-lbl" x="267.2" y="158" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">What You May</text>
+<text class="tm-lbl" x="267.2" y="176" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">Transmit</text>
+</a>
+<a class="tm-stop" href="../what_you_may_say/" aria-label="3. What You May Say">
+<title>3. What You May Say</title>
+<circle cx="424.4" cy="124" r="15" fill="#000000" fill-opacity="0.4"/>
+<circle class="tm-ring" cx="422.4" cy="120" r="15" fill="url(#gl-ball-4299e1)"/>
+<text x="422.4" y="125" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="bold">3</text>
+<text class="tm-lbl" x="422.4" y="158" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">What You May</text>
+<text class="tm-lbl" x="422.4" y="176" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">Say</text>
+</a>
+<a class="tm-stop" href="../across_borders/" aria-label="4. Across Borders">
+<title>4. Across Borders</title>
+<circle cx="579.6" cy="124" r="15" fill="#000000" fill-opacity="0.4"/>
+<circle class="tm-ring" cx="577.6" cy="120" r="15" fill="url(#gl-ball-4299e1)"/>
+<text x="577.6" y="125" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="bold">4</text>
+<text class="tm-lbl" x="577.6" y="158" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">Across</text>
+<text class="tm-lbl" x="577.6" y="176" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">Borders</text>
+</a>
+<a class="tm-stop" href="../who_enforces_the_rules/" aria-label="5. Who Enforces the Rules">
+<title>5. Who Enforces the Rules</title>
+<circle cx="734.8" cy="124" r="15" fill="#000000" fill-opacity="0.4"/>
+<circle class="tm-ring" cx="732.8" cy="120" r="15" fill="url(#gl-ball-4299e1)"/>
+<text x="732.8" y="125" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="bold">5</text>
+<text class="tm-lbl" x="732.8" y="158" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">Who Enforces</text>
+<text class="tm-lbl" x="732.8" y="176" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">the Rules</text>
+</a>
+<a class="tm-stop" href="../antennas_and_neighbours/" aria-label="6. Antennas and Neighbours">
+<title>6. Antennas and Neighbours</title>
+<circle cx="890.0" cy="124" r="15" fill="#000000" fill-opacity="0.4"/>
+<circle class="tm-ring" cx="888.0" cy="120" r="15" fill="url(#gl-ball-4299e1)"/>
+<text x="888.0" y="125" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="bold">6</text>
+<text class="tm-lbl" x="888.0" y="158" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">Antennas and</text>
+<text class="tm-lbl" x="888.0" y="176" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">Neighbours</text>
+</a>
+</svg>

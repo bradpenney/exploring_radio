@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400" role="img" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">
+<title>Two kinds of sharing. Left: in bands such as 430 to 450 and 902 to 928 megahertz, marked with an asterisk in RBR-4, the amateur service is secondary to another, primary service: amateurs must not interfere with it and are not protected from it. Right: two amateur stations wanting the same frequency have equal rights, so they share rather than jam.</title>
+<defs><radialGradient id="eball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#cbd5e0"/><stop offset="1" stop-color="#4a5568"/></radialGradient><radialGradient id="vball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff7e0"/><stop offset="0.45" stop-color="#f59e0b"/><stop offset="1" stop-color="#92400e"/></radialGradient><radialGradient id="core" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#e2e8f0"/><stop offset="0.45" stop-color="#718096"/><stop offset="1" stop-color="#1a202c"/></radialGradient><radialGradient id="silverball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#c0c6cf"/><stop offset="1" stop-color="#5a6270"/></radialGradient><radialGradient id="copperball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffd2b0"/><stop offset="0.45" stop-color="#c8733c"/><stop offset="1" stop-color="#5e2b10"/></radialGradient><radialGradient id="goldball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff3b0"/><stop offset="0.45" stop-color="#e6b422"/><stop offset="1" stop-color="#7a5a00"/></radialGradient><radialGradient id="alball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#f0f6ff"/><stop offset="0.45" stop-color="#a8b8cc"/><stop offset="1" stop-color="#4a5868"/></radialGradient><radialGradient id="glow" r="50%"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.55"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient><linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d3748" stop-opacity="0.45"/><stop offset="1" stop-color="#1a202c" stop-opacity="0.15"/></linearGradient><linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="0.45" stop-color="#ffffff" stop-opacity="0.05"/><stop offset="0.55" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.35"/></linearGradient><filter id="softglow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f59e0b"/></marker></defs>
+<rect x="15" y="15" width="870" height="370" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="450.0" y="48.0" font-size="17" fill="#fbbf24" text-anchor="middle" font-weight="bold">Two kinds of sharing on the amateur bands</text>
+<ellipse cx="257.5" cy="305.0" rx="173.5" ry="9.0" fill="#000" fill-opacity="0.4"/>
+<polygon points="90.0,140.0 390.0,140.0 425.0,117.5 125.0,117.5" fill="#808895"/>
+<rect x="90.0" y="140.0" width="300.0" height="160.0" fill="#4a5568"/>
+<rect x="90.0" y="140.0" width="300.0" height="160.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="390.0,300.0 390.0,140.0 425.0,117.5 425.0,277.5" fill="#282e39"/>
+<text x="240.0" y="170.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold">another service</text>
+<text x="240.0" y="190.0" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="normal">(primary)</text>
+<polygon points="110.0,250.0 370.0,250.0 391.0,236.5 131.0,236.5" fill="#7ab7ea"/>
+<rect x="110.0" y="250.0" width="260.0" height="50.0" fill="#4299e1"/>
+<rect x="110.0" y="250.0" width="260.0" height="50.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="370.0,300.0 370.0,250.0 391.0,236.5 391.0,286.5" fill="#24547b"/>
+<text x="240.0" y="280.0" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="bold">amateur (secondary)</text>
+<text x="240.0" y="340.0" font-size="12" fill="#a0aec0" text-anchor="middle" font-weight="normal">e.g. 430–450 MHz, 902–928 MHz (RBR-4 "*")</text>
+<text x="240.0" y="360.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="bold">must not interfere; not protected</text>
+<ellipse cx="589.0" cy="305.0" rx="75.0" ry="7.2" fill="#000" fill-opacity="0.4"/>
+<polygon points="520.0,200.0 630.0,200.0 658.0,182.0 548.0,182.0" fill="#7ab7ea"/>
+<rect x="520.0" y="200.0" width="110.0" height="100.0" fill="#4299e1"/>
+<rect x="520.0" y="200.0" width="110.0" height="100.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="630.0,300.0 630.0,200.0 658.0,182.0 658.0,282.0" fill="#24547b"/>
+<text x="575.0" y="236.0" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="bold">amateur</text>
+<ellipse cx="739.0" cy="305.0" rx="75.0" ry="7.2" fill="#000" fill-opacity="0.4"/>
+<polygon points="670.0,200.0 780.0,200.0 808.0,182.0 698.0,182.0" fill="#7ab7ea"/>
+<rect x="670.0" y="200.0" width="110.0" height="100.0" fill="#4299e1"/>
+<rect x="670.0" y="200.0" width="110.0" height="100.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="780.0,300.0 780.0,200.0 808.0,182.0 808.0,282.0" fill="#24547b"/>
+<text x="725.0" y="236.0" font-size="13" fill="#ffffff" text-anchor="middle" font-weight="bold">amateur</text>
+<text x="650.0" y="262.0" font-size="30" fill="#fbbf24" text-anchor="middle" font-weight="bold">=</text>
+<text x="655.0" y="340.0" font-size="12" fill="#a0aec0" text-anchor="middle" font-weight="normal">two amateurs on one frequency</text>
+<text x="655.0" y="360.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="bold">equal rights: share, don't jam</text>
+</svg>

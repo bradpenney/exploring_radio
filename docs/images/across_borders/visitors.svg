@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">
+<title>Three kinds of visitor operating in Canada. From the United States: no permit is needed; they use their FCC call sign plus "portable" or "mobile" and the Canadian prefix for where they are, under RBR-4 section 9, and must be United States citizens. With a CEPT licence, the European licensing system Canada recognizes: privileges equal to a Canadian with Basic and Advanced, under RIC-3 section 8.2.1, but no more than their own licence. From other countries: they must be citizens of the issuing country, which must give Canadians similar privileges, under section 42(i) of the Regulations.</title>
+<defs><radialGradient id="eball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#cbd5e0"/><stop offset="1" stop-color="#4a5568"/></radialGradient><radialGradient id="vball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff7e0"/><stop offset="0.45" stop-color="#f59e0b"/><stop offset="1" stop-color="#92400e"/></radialGradient><radialGradient id="core" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#e2e8f0"/><stop offset="0.45" stop-color="#718096"/><stop offset="1" stop-color="#1a202c"/></radialGradient><radialGradient id="silverball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#c0c6cf"/><stop offset="1" stop-color="#5a6270"/></radialGradient><radialGradient id="copperball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffd2b0"/><stop offset="0.45" stop-color="#c8733c"/><stop offset="1" stop-color="#5e2b10"/></radialGradient><radialGradient id="goldball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff3b0"/><stop offset="0.45" stop-color="#e6b422"/><stop offset="1" stop-color="#7a5a00"/></radialGradient><radialGradient id="alball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#f0f6ff"/><stop offset="0.45" stop-color="#a8b8cc"/><stop offset="1" stop-color="#4a5868"/></radialGradient><radialGradient id="glow" r="50%"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.55"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient><linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d3748" stop-opacity="0.45"/><stop offset="1" stop-color="#1a202c" stop-opacity="0.15"/></linearGradient><linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="0.45" stop-color="#ffffff" stop-opacity="0.05"/><stop offset="0.55" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.35"/></linearGradient><filter id="softglow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f59e0b"/></marker></defs>
+<rect x="15" y="15" width="280" height="390" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="155.0" y="50.0" font-size="15" fill="#fbbf24" text-anchor="middle" font-weight="bold">From the United States</text>
+<circle cx="155" cy="78" r="13" fill="#4299e1"/>
+<rect x="142" y="95" width="26" height="32" rx="10" fill="#4299e1"/>
+<text x="155.0" y="146.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="bold">visitor</text>
+<rect x="40.0" y="186.0" width="230" height="28" rx="14.0" fill="#4299e1"/>
+<rect x="40.0" y="186.0" width="230" height="28" rx="14.0" fill="url(#gloss)"/>
+<text x="155.0" y="204.3" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="bold">no permit needed</text>
+<text x="155.0" y="250.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">FCC call sign, plus "portable"</text>
+<text x="155.0" y="274.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">or "mobile" and the Canadian</text>
+<text x="155.0" y="298.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">prefix: "... portable VE1"</text>
+<text x="155.0" y="322.0" font-size="12" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">(RBR-4 s. 9)</text>
+<text x="155.0" y="346.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">must be a US citizen</text>
+<rect x="310" y="15" width="280" height="390" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="450.0" y="50.0" font-size="15" fill="#fbbf24" text-anchor="middle" font-weight="bold">With a CEPT licence</text>
+<circle cx="450" cy="78" r="13" fill="#9f7aea"/>
+<rect x="437" y="95" width="26" height="32" rx="10" fill="#9f7aea"/>
+<text x="450.0" y="146.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="bold">visitor</text>
+<rect x="335.0" y="186.0" width="230" height="28" rx="14.0" fill="#9f7aea"/>
+<rect x="335.0" y="186.0" width="230" height="28" rx="14.0" fill="url(#gloss)"/>
+<text x="450.0" y="204.3" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="bold">privileges: Basic + Advanced</text>
+<text x="450.0" y="250.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">CEPT T/R 61-01, a European</text>
+<text x="450.0" y="274.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">licensing system that Canada</text>
+<text x="450.0" y="298.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">recognizes</text>
+<text x="450.0" y="322.0" font-size="12" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">(RIC-3 s. 8.2.1)</text>
+<text x="450.0" y="346.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">within their own licence too</text>
+<rect x="605" y="15" width="280" height="390" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="745.0" y="50.0" font-size="15" fill="#fbbf24" text-anchor="middle" font-weight="bold">Other countries</text>
+<circle cx="745" cy="78" r="13" fill="#38b2ac"/>
+<rect x="732" y="95" width="26" height="32" rx="10" fill="#38b2ac"/>
+<text x="745.0" y="146.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="bold">visitor</text>
+<rect x="630.0" y="186.0" width="230" height="28" rx="14.0" fill="#38b2ac"/>
+<rect x="630.0" y="186.0" width="230" height="28" rx="14.0" fill="url(#gloss)"/>
+<text x="745.0" y="204.3" font-size="12" fill="#ffffff" text-anchor="middle" font-weight="bold">reciprocal arrangement</text>
+<text x="745.0" y="250.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">a citizen of the issuing country,</text>
+<text x="745.0" y="274.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">which must give Canadians</text>
+<text x="745.0" y="298.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">similar privileges</text>
+<text x="745.0" y="322.0" font-size="12" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">(Regulations s. 42(i))</text>
+<text x="745.0" y="346.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">no more than their own licence</text>
+</svg>
