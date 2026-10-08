@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400" role="img" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">
+<title>A 3D score bar from 0 to 100 percent. Below 70 percent the exam isn't passed yet and can be written again, with a different exam each time. From 70 to 79 percent earns the Basic Qualification: every amateur band above 30 megahertz. 80 percent or above earns Basic with Honours, which adds every band below 30 megahertz, the HF bands. Morse code or Advanced, added to Basic, also opens HF.</title>
+<defs><radialGradient id="eball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#cbd5e0"/><stop offset="1" stop-color="#4a5568"/></radialGradient><radialGradient id="vball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff7e0"/><stop offset="0.45" stop-color="#f59e0b"/><stop offset="1" stop-color="#92400e"/></radialGradient><radialGradient id="core" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#e2e8f0"/><stop offset="0.45" stop-color="#718096"/><stop offset="1" stop-color="#1a202c"/></radialGradient><radialGradient id="silverball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#c0c6cf"/><stop offset="1" stop-color="#5a6270"/></radialGradient><radialGradient id="copperball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffd2b0"/><stop offset="0.45" stop-color="#c8733c"/><stop offset="1" stop-color="#5e2b10"/></radialGradient><radialGradient id="goldball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff3b0"/><stop offset="0.45" stop-color="#e6b422"/><stop offset="1" stop-color="#7a5a00"/></radialGradient><radialGradient id="alball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#f0f6ff"/><stop offset="0.45" stop-color="#a8b8cc"/><stop offset="1" stop-color="#4a5868"/></radialGradient><radialGradient id="glow" r="50%"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.55"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient><linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d3748" stop-opacity="0.45"/><stop offset="1" stop-color="#1a202c" stop-opacity="0.15"/></linearGradient><linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="0.45" stop-color="#ffffff" stop-opacity="0.05"/><stop offset="0.55" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.35"/></linearGradient><filter id="softglow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f59e0b"/></marker></defs>
+<rect x="15" y="15" width="870" height="370" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="450.0" y="48.0" font-size="17" fill="#fbbf24" text-anchor="middle" font-weight="bold">One exam, three outcomes: the score decides the privileges</text>
+<ellipse cx="351.0" cy="195.0" rx="277.0" ry="7.2" fill="#000" fill-opacity="0.4"/>
+<polygon points="80.0,130.0 594.0,130.0 622.0,112.0 108.0,112.0" fill="#808895"/>
+<rect x="80.0" y="130.0" width="514.0" height="60.0" fill="#4a5568"/>
+<rect x="80.0" y="130.0" width="514.0" height="60.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="594.0,190.0 594.0,130.0 622.0,112.0 622.0,172.0" fill="#282e39"/>
+<text x="335.0" y="166.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold">not yet: write it again</text>
+<polygon points="598.0,130.0 668.0,130.0 696.0,112.0 626.0,112.0" fill="#f8bb54"/>
+<rect x="598.0" y="130.0" width="70.0" height="60.0" fill="#f59e0b"/>
+<rect x="598.0" y="130.0" width="70.0" height="60.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="668.0,190.0 668.0,130.0 696.0,112.0 696.0,172.0" fill="#865606"/>
+<text x="631.0" y="166.0" font-size="14" fill="#1a1a1a" text-anchor="middle" font-weight="bold">Basic</text>
+<polygon points="672.0,130.0 816.0,130.0 844.0,112.0 700.0,112.0" fill="#7ecfa0"/>
+<rect x="672.0" y="130.0" width="144.0" height="60.0" fill="#48bb78"/>
+<rect x="672.0" y="130.0" width="144.0" height="60.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="816.0,190.0 816.0,130.0 844.0,112.0 844.0,172.0" fill="#276642"/>
+<text x="742.0" y="166.0" font-size="14" fill="#ffffff" text-anchor="middle" font-weight="bold">Basic with Honours</text>
+<rect x="250" y="251" width="14" height="14" rx="3" fill="#4a5568"/>
+<text x="272.0" y="263.0" font-size="13" fill="#e6e6e6" text-anchor="start" font-weight="normal">not yet: write it again: a different exam each time</text>
+<rect x="250" y="271" width="14" height="14" rx="3" fill="#f59e0b"/>
+<text x="272.0" y="283.0" font-size="13" fill="#e6e6e6" text-anchor="start" font-weight="normal">Basic: all bands above 30 MHz</text>
+<rect x="250" y="291" width="14" height="14" rx="3" fill="#48bb78"/>
+<text x="272.0" y="303.0" font-size="13" fill="#e6e6e6" text-anchor="start" font-weight="normal">Basic with Honours: adds every band below 30 MHz (HF)</text>
+<text x="80.0" y="218.0" font-size="13" fill="#a0aec0" text-anchor="middle" font-weight="bold">0%</text>
+<text x="598.0" y="218.0" font-size="13" fill="#a0aec0" text-anchor="middle" font-weight="bold">70%</text>
+<text x="672.0" y="218.0" font-size="13" fill="#a0aec0" text-anchor="middle" font-weight="bold">80%</text>
+<text x="820.0" y="218.0" font-size="13" fill="#a0aec0" text-anchor="middle" font-weight="bold">100%</text>
+<text x="450.0" y="336.0" font-size="13" fill="#e6e6e6" text-anchor="middle" font-weight="normal">Morse code (5 w.p.m.) or Advanced, added to Basic, also opens HF.</text>
+<text x="450.0" y="356.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">RIC-3 sections 4.5 and 5.1; RBR-4 Schedule I</text>
+</svg>

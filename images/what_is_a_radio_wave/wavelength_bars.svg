@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 450" width="900" height="450" role="img" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">
+<title>Bars on a logarithmic scale showing wavelength equals 300 divided by frequency in megahertz, for six amateur frequencies: 1.9 megahertz in the 160 metre band, 158 metres; 7.15 megahertz in the 40 metre band, 42 metres; 14.2 megahertz in the 20 metre band, 21 metres; 28.8 megahertz in the 10 metre band, 10.4 metres; 146 megahertz in the 2 metre band, 2.05 metres; 440 megahertz in the 70 centimetre band, 68 centimetres. Double the frequency and the wavelength halves.</title>
+<defs><radialGradient id="eball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#cbd5e0"/><stop offset="1" stop-color="#4a5568"/></radialGradient><radialGradient id="vball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff7e0"/><stop offset="0.45" stop-color="#f59e0b"/><stop offset="1" stop-color="#92400e"/></radialGradient><radialGradient id="core" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#e2e8f0"/><stop offset="0.45" stop-color="#718096"/><stop offset="1" stop-color="#1a202c"/></radialGradient><radialGradient id="silverball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#c0c6cf"/><stop offset="1" stop-color="#5a6270"/></radialGradient><radialGradient id="copperball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffd2b0"/><stop offset="0.45" stop-color="#c8733c"/><stop offset="1" stop-color="#5e2b10"/></radialGradient><radialGradient id="goldball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff3b0"/><stop offset="0.45" stop-color="#e6b422"/><stop offset="1" stop-color="#7a5a00"/></radialGradient><radialGradient id="alball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#f0f6ff"/><stop offset="0.45" stop-color="#a8b8cc"/><stop offset="1" stop-color="#4a5868"/></radialGradient><radialGradient id="glow" r="50%"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.55"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient><linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d3748" stop-opacity="0.45"/><stop offset="1" stop-color="#1a202c" stop-opacity="0.15"/></linearGradient><linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="0.45" stop-color="#ffffff" stop-opacity="0.05"/><stop offset="0.55" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.35"/></linearGradient><filter id="softglow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f59e0b"/></marker></defs>
+<rect x="15" y="15" width="870" height="420" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="450.0" y="48.0" font-size="17" fill="#fbbf24" text-anchor="middle" font-weight="bold">Wavelength in metres = 300 ÷ frequency in megahertz</text>
+<ellipse cx="142.2" cy="335.0" rx="53.2" ry="6.3" fill="#000" fill-opacity="0.4"/>
+<polygon points="95.0,110.5 165.0,110.5 189.5,94.7 119.5,94.7" fill="#f8bb54"/>
+<rect x="95.0" y="110.5" width="70.0" height="219.5" fill="#f59e0b"/>
+<rect x="95.0" y="110.5" width="70.0" height="219.5" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="165.0,330.0 165.0,110.5 189.5,94.7 189.5,314.2" fill="#865606"/>
+<text x="142.0" y="88.5" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">158 m</text>
+<text x="130.0" y="356.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">1.9 MHz</text>
+<text x="130.0" y="374.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">160 m band</text>
+<ellipse cx="267.2" cy="335.0" rx="53.2" ry="6.3" fill="#000" fill-opacity="0.4"/>
+<polygon points="220.0,157.3 290.0,157.3 314.5,141.5 244.5,141.5" fill="#f8bb54"/>
+<rect x="220.0" y="157.3" width="70.0" height="172.7" fill="#f59e0b"/>
+<rect x="220.0" y="157.3" width="70.0" height="172.7" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="290.0,330.0 290.0,157.3 314.5,141.5 314.5,314.2" fill="#865606"/>
+<text x="267.0" y="135.3" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">42 m</text>
+<text x="255.0" y="356.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">7.15 MHz</text>
+<text x="255.0" y="374.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">40 m band</text>
+<ellipse cx="392.2" cy="335.0" rx="53.2" ry="6.3" fill="#000" fill-opacity="0.4"/>
+<polygon points="345.0,181.5 415.0,181.5 439.5,165.8 369.5,165.8" fill="#f8bb54"/>
+<rect x="345.0" y="181.5" width="70.0" height="148.5" fill="#f59e0b"/>
+<rect x="345.0" y="181.5" width="70.0" height="148.5" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="415.0,330.0 415.0,181.5 439.5,165.8 439.5,314.2" fill="#865606"/>
+<text x="392.0" y="159.5" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">21 m</text>
+<text x="380.0" y="356.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">14.2 MHz</text>
+<text x="380.0" y="374.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">20 m band</text>
+<ellipse cx="517.2" cy="335.0" rx="53.2" ry="6.3" fill="#000" fill-opacity="0.4"/>
+<polygon points="470.0,206.5 540.0,206.5 564.5,190.8 494.5,190.8" fill="#f8bb54"/>
+<rect x="470.0" y="206.5" width="70.0" height="123.5" fill="#f59e0b"/>
+<rect x="470.0" y="206.5" width="70.0" height="123.5" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="540.0,330.0 540.0,206.5 564.5,190.8 564.5,314.2" fill="#865606"/>
+<text x="517.0" y="184.5" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">10 m</text>
+<text x="505.0" y="356.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">28.8 MHz</text>
+<text x="505.0" y="374.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">10 m band</text>
+<ellipse cx="642.2" cy="335.0" rx="53.2" ry="6.3" fill="#000" fill-opacity="0.4"/>
+<polygon points="595.0,263.9 665.0,263.9 689.5,248.1 619.5,248.1" fill="#7ecfa0"/>
+<rect x="595.0" y="263.9" width="70.0" height="66.1" fill="#48bb78"/>
+<rect x="595.0" y="263.9" width="70.0" height="66.1" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="665.0,330.0 665.0,263.9 689.5,248.1 689.5,314.2" fill="#276642"/>
+<text x="642.0" y="241.9" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">2.05 m</text>
+<text x="630.0" y="356.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">146 MHz</text>
+<text x="630.0" y="374.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">2 m band</text>
+<ellipse cx="767.2" cy="335.0" rx="53.2" ry="6.3" fill="#000" fill-opacity="0.4"/>
+<polygon points="720.0,302.9 790.0,302.9 814.5,287.1 744.5,287.1" fill="#7ab7ea"/>
+<rect x="720.0" y="302.9" width="70.0" height="27.1" fill="#4299e1"/>
+<rect x="720.0" y="302.9" width="70.0" height="27.1" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="790.0,330.0 790.0,302.9 814.5,287.1 814.5,314.2" fill="#24547b"/>
+<text x="767.0" y="280.9" font-size="15" fill="#e6e6e6" text-anchor="middle" font-weight="bold">68 cm</text>
+<text x="755.0" y="356.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">440 MHz</text>
+<text x="755.0" y="374.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">70 cm band</text>
+<text x="450.0" y="400.0" font-size="12" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">Bar heights on a logarithmic scale. Double the frequency and the wavelength halves.</text>
+</svg>

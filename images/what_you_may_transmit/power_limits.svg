@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" width="900" height="440" role="img" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">
+<title>Three pairs of 3D bars for the RBR-4 power limits. DC input to the final stage: Basic 250 watts, Advanced 1,000. Single-sideband output as peak envelope power: Basic 560 watts, Advanced 2,250. Carrier power for other modes: Basic 190 watts, Advanced 750. An amplifier at the station may not be capable of more than 3 decibels, twice, those limits.</title>
+<defs><radialGradient id="eball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#cbd5e0"/><stop offset="1" stop-color="#4a5568"/></radialGradient><radialGradient id="vball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff7e0"/><stop offset="0.45" stop-color="#f59e0b"/><stop offset="1" stop-color="#92400e"/></radialGradient><radialGradient id="core" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#e2e8f0"/><stop offset="0.45" stop-color="#718096"/><stop offset="1" stop-color="#1a202c"/></radialGradient><radialGradient id="silverball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#c0c6cf"/><stop offset="1" stop-color="#5a6270"/></radialGradient><radialGradient id="copperball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffd2b0"/><stop offset="0.45" stop-color="#c8733c"/><stop offset="1" stop-color="#5e2b10"/></radialGradient><radialGradient id="goldball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff3b0"/><stop offset="0.45" stop-color="#e6b422"/><stop offset="1" stop-color="#7a5a00"/></radialGradient><radialGradient id="alball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#f0f6ff"/><stop offset="0.45" stop-color="#a8b8cc"/><stop offset="1" stop-color="#4a5868"/></radialGradient><radialGradient id="glow" r="50%"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.55"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient><linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d3748" stop-opacity="0.45"/><stop offset="1" stop-color="#1a202c" stop-opacity="0.15"/></linearGradient><linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="0.45" stop-color="#ffffff" stop-opacity="0.05"/><stop offset="0.55" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.35"/></linearGradient><filter id="softglow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f59e0b"/></marker></defs>
+<rect x="15" y="15" width="870" height="410" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="450.0" y="48.0" font-size="17" fill="#fbbf24" text-anchor="middle" font-weight="bold">Power limits by qualification (RBR-4 section 10)</text>
+<ellipse cx="153.5" cy="335.0" rx="49.5" ry="5.4" fill="#000" fill-opacity="0.4"/>
+<polygon points="110.0,305.0 176.0,305.0 197.0,291.5 131.0,291.5" fill="#7ab7ea"/>
+<rect x="110.0" y="305.0" width="66.0" height="25.0" fill="#4299e1"/>
+<rect x="110.0" y="305.0" width="66.0" height="25.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="176.0,330.0 176.0,305.0 197.0,291.5 197.0,316.5" fill="#24547b"/>
+<text x="152.0" y="281.0" font-size="14" fill="#e6e6e6" text-anchor="middle" font-weight="bold">250 W</text>
+<text x="143.0" y="352.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">Basic</text>
+<ellipse cx="243.5" cy="335.0" rx="49.5" ry="5.4" fill="#000" fill-opacity="0.4"/>
+<polygon points="200.0,230.0 266.0,230.0 287.0,216.5 221.0,216.5" fill="#f8bb54"/>
+<rect x="200.0" y="230.0" width="66.0" height="100.0" fill="#f59e0b"/>
+<rect x="200.0" y="230.0" width="66.0" height="100.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="266.0,330.0 266.0,230.0 287.0,216.5 287.0,316.5" fill="#865606"/>
+<text x="242.0" y="206.0" font-size="14" fill="#e6e6e6" text-anchor="middle" font-weight="bold">1,000 W</text>
+<text x="233.0" y="352.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">Advanced</text>
+<text x="188.0" y="376.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="bold">DC input to the final stage</text>
+<ellipse cx="413.5" cy="335.0" rx="49.5" ry="5.4" fill="#000" fill-opacity="0.4"/>
+<polygon points="370.0,274.0 436.0,274.0 457.0,260.5 391.0,260.5" fill="#7ab7ea"/>
+<rect x="370.0" y="274.0" width="66.0" height="56.0" fill="#4299e1"/>
+<rect x="370.0" y="274.0" width="66.0" height="56.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="436.0,330.0 436.0,274.0 457.0,260.5 457.0,316.5" fill="#24547b"/>
+<text x="412.0" y="250.0" font-size="14" fill="#e6e6e6" text-anchor="middle" font-weight="bold">560 W</text>
+<text x="403.0" y="352.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">Basic</text>
+<ellipse cx="503.5" cy="335.0" rx="49.5" ry="5.4" fill="#000" fill-opacity="0.4"/>
+<polygon points="460.0,105.0 526.0,105.0 547.0,91.5 481.0,91.5" fill="#f8bb54"/>
+<rect x="460.0" y="105.0" width="66.0" height="225.0" fill="#f59e0b"/>
+<rect x="460.0" y="105.0" width="66.0" height="225.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="526.0,330.0 526.0,105.0 547.0,91.5 547.0,316.5" fill="#865606"/>
+<text x="502.0" y="81.0" font-size="14" fill="#e6e6e6" text-anchor="middle" font-weight="bold">2,250 W</text>
+<text x="493.0" y="352.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">Advanced</text>
+<text x="448.0" y="376.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="bold">SSB output, peak envelope power</text>
+<ellipse cx="673.5" cy="335.0" rx="49.5" ry="5.4" fill="#000" fill-opacity="0.4"/>
+<polygon points="630.0,311.0 696.0,311.0 717.0,297.5 651.0,297.5" fill="#7ab7ea"/>
+<rect x="630.0" y="311.0" width="66.0" height="19.0" fill="#4299e1"/>
+<rect x="630.0" y="311.0" width="66.0" height="19.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="696.0,330.0 696.0,311.0 717.0,297.5 717.0,316.5" fill="#24547b"/>
+<text x="672.0" y="287.0" font-size="14" fill="#e6e6e6" text-anchor="middle" font-weight="bold">190 W</text>
+<text x="663.0" y="352.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">Basic</text>
+<ellipse cx="763.5" cy="335.0" rx="49.5" ry="5.4" fill="#000" fill-opacity="0.4"/>
+<polygon points="720.0,255.0 786.0,255.0 807.0,241.5 741.0,241.5" fill="#f8bb54"/>
+<rect x="720.0" y="255.0" width="66.0" height="75.0" fill="#f59e0b"/>
+<rect x="720.0" y="255.0" width="66.0" height="75.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="786.0,330.0 786.0,255.0 807.0,241.5 807.0,316.5" fill="#865606"/>
+<text x="762.0" y="231.0" font-size="14" fill="#e6e6e6" text-anchor="middle" font-weight="bold">750 W</text>
+<text x="753.0" y="352.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">Advanced</text>
+<text x="708.0" y="376.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="bold">other modes, carrier power</text>
+<text x="450.0" y="410.0" font-size="12" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">An amplifier may not be capable of more than 3 dB (twice) these limits (section 10.1).</text>
+</svg>

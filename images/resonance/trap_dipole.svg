@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" width="900" height="420" role="img" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">
+<title>A dipole with a trap, a parallel coil and capacitor, partway along each side. Top: on the trap's own resonant frequency the traps are high impedance, so only the inner sections of wire radiate and the outer sections are cut off. Bottom: on a lower band the traps pass the current on, and the whole wire radiates. One antenna works on two bands.</title>
+<defs><radialGradient id="eball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#cbd5e0"/><stop offset="1" stop-color="#4a5568"/></radialGradient><radialGradient id="vball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff7e0"/><stop offset="0.45" stop-color="#f59e0b"/><stop offset="1" stop-color="#92400e"/></radialGradient><radialGradient id="core" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#e2e8f0"/><stop offset="0.45" stop-color="#718096"/><stop offset="1" stop-color="#1a202c"/></radialGradient><radialGradient id="silverball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#c0c6cf"/><stop offset="1" stop-color="#5a6270"/></radialGradient><radialGradient id="copperball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffd2b0"/><stop offset="0.45" stop-color="#c8733c"/><stop offset="1" stop-color="#5e2b10"/></radialGradient><radialGradient id="goldball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff3b0"/><stop offset="0.45" stop-color="#e6b422"/><stop offset="1" stop-color="#7a5a00"/></radialGradient><radialGradient id="alball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#f0f6ff"/><stop offset="0.45" stop-color="#a8b8cc"/><stop offset="1" stop-color="#4a5868"/></radialGradient><radialGradient id="glow" r="50%"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.55"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient><linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d3748" stop-opacity="0.45"/><stop offset="1" stop-color="#1a202c" stop-opacity="0.15"/></linearGradient><linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="0.45" stop-color="#ffffff" stop-opacity="0.05"/><stop offset="0.55" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.35"/></linearGradient><filter id="softglow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f59e0b"/></marker></defs>
+<rect x="15" y="15" width="870" height="390" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="450.0" y="48.0" font-size="16" fill="#fbbf24" text-anchor="middle" font-weight="bold">A trap: a parallel tuned circuit that cuts a wire off at one frequency</text>
+<text x="80.0" y="112.0" font-size="14" fill="#fbbf24" text-anchor="start" font-weight="bold">On the trap's frequency</text>
+<line x1="90" y1="150" x2="260" y2="150" stroke="#606873" stroke-width="5"/>
+<line x1="300" y1="150" x2="430" y2="150" stroke="#48bb78" stroke-width="5"/>
+<line x1="470" y1="150" x2="600" y2="150" stroke="#48bb78" stroke-width="5"/>
+<line x1="640" y1="150" x2="810" y2="150" stroke="#606873" stroke-width="5"/>
+<polygon points="260.0,136.0 300.0,136.0 312.6,127.9 272.6,127.9" fill="#bba1f0"/>
+<rect x="260.0" y="136.0" width="40.0" height="28.0" fill="#9f7aea"/>
+<rect x="260.0" y="136.0" width="40.0" height="28.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="300.0,164.0 300.0,136.0 312.6,127.9 312.6,155.9" fill="#574380"/>
+<polygon points="600.0,136.0 640.0,136.0 652.6,127.9 612.6,127.9" fill="#bba1f0"/>
+<rect x="600.0" y="136.0" width="40.0" height="28.0" fill="#9f7aea"/>
+<rect x="600.0" y="136.0" width="40.0" height="28.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="640.0,164.0 640.0,136.0 652.6,127.9 652.6,155.9" fill="#574380"/>
+<rect x="430" y="140" width="40" height="20" rx="4" fill="#4a5568"/>
+<line x1="450" y1="160" x2="450" y2="200" stroke="#4a5568" stroke-width="4"/>
+<text x="450.0" y="216.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">feedline</text>
+<text x="280.0" y="118.0" font-size="11" fill="#9f7aea" text-anchor="middle" font-weight="bold">trap</text>
+<text x="620.0" y="118.0" font-size="11" fill="#9f7aea" text-anchor="middle" font-weight="bold">trap</text>
+<text x="450.0" y="240.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">the traps are high impedance: only the inner wires radiate</text>
+<text x="80.0" y="252.0" font-size="14" fill="#fbbf24" text-anchor="start" font-weight="bold">On a lower band</text>
+<line x1="90" y1="290" x2="260" y2="290" stroke="#48bb78" stroke-width="5"/>
+<line x1="300" y1="290" x2="430" y2="290" stroke="#48bb78" stroke-width="5"/>
+<line x1="470" y1="290" x2="600" y2="290" stroke="#48bb78" stroke-width="5"/>
+<line x1="640" y1="290" x2="810" y2="290" stroke="#48bb78" stroke-width="5"/>
+<polygon points="260.0,276.0 300.0,276.0 312.6,267.9 272.6,267.9" fill="#bba1f0"/>
+<rect x="260.0" y="276.0" width="40.0" height="28.0" fill="#9f7aea"/>
+<rect x="260.0" y="276.0" width="40.0" height="28.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="300.0,304.0 300.0,276.0 312.6,267.9 312.6,295.9" fill="#574380"/>
+<polygon points="600.0,276.0 640.0,276.0 652.6,267.9 612.6,267.9" fill="#bba1f0"/>
+<rect x="600.0" y="276.0" width="40.0" height="28.0" fill="#9f7aea"/>
+<rect x="600.0" y="276.0" width="40.0" height="28.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="640.0,304.0 640.0,276.0 652.6,267.9 652.6,295.9" fill="#574380"/>
+<rect x="430" y="280" width="40" height="20" rx="4" fill="#4a5568"/>
+<line x1="450" y1="300" x2="450" y2="340" stroke="#4a5568" stroke-width="4"/>
+<text x="450.0" y="356.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">feedline</text>
+<text x="280.0" y="258.0" font-size="11" fill="#9f7aea" text-anchor="middle" font-weight="bold">trap</text>
+<text x="620.0" y="258.0" font-size="11" fill="#9f7aea" text-anchor="middle" font-weight="bold">trap</text>
+<text x="450.0" y="380.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">the traps pass the current on: the whole wire radiates</text>
+</svg>

@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 430" width="900" height="430" role="img" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">
+<title>Canada's amateur bands from 1.8 to 928 megahertz on a logarithmic frequency scale, from RBR-4 Schedule I. Below the 30 megahertz line, in green, the HF bands named by wavelength: 160, 80, 60, 40, 30, 20, 17, 15, 12 and 10 metres, which need Honours, Morse, or Advanced with Basic. Above it, in blue, the 6 metre, 2 metre, 1.25 metre, 70 centimetre and 33 centimetre bands, open to Basic. The microwave bands above 1 gigahertz continue off the right edge.</title>
+<defs><radialGradient id="eball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#cbd5e0"/><stop offset="1" stop-color="#4a5568"/></radialGradient><radialGradient id="vball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff7e0"/><stop offset="0.45" stop-color="#f59e0b"/><stop offset="1" stop-color="#92400e"/></radialGradient><radialGradient id="core" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#e2e8f0"/><stop offset="0.45" stop-color="#718096"/><stop offset="1" stop-color="#1a202c"/></radialGradient><radialGradient id="silverball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#c0c6cf"/><stop offset="1" stop-color="#5a6270"/></radialGradient><radialGradient id="copperball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffd2b0"/><stop offset="0.45" stop-color="#c8733c"/><stop offset="1" stop-color="#5e2b10"/></radialGradient><radialGradient id="goldball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff3b0"/><stop offset="0.45" stop-color="#e6b422"/><stop offset="1" stop-color="#7a5a00"/></radialGradient><radialGradient id="alball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#f0f6ff"/><stop offset="0.45" stop-color="#a8b8cc"/><stop offset="1" stop-color="#4a5868"/></radialGradient><radialGradient id="glow" r="50%"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.55"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient><linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d3748" stop-opacity="0.45"/><stop offset="1" stop-color="#1a202c" stop-opacity="0.15"/></linearGradient><linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="0.45" stop-color="#ffffff" stop-opacity="0.05"/><stop offset="0.55" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.35"/></linearGradient><filter id="softglow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f59e0b"/></marker></defs>
+<rect x="15" y="15" width="870" height="400" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="450.0" y="48.0" font-size="17" fill="#fbbf24" text-anchor="middle" font-weight="bold">Canada's amateur bands from 1.8 to 928 MHz (RBR-4 Schedule I), log scale</text>
+<rect x="60" y="227" width="800" height="6" rx="3" fill="#4a5568"/>
+<polygon points="82.1,160.0 94.9,160.0 104.7,153.7 91.9,153.7" fill="#7ecfa0"/>
+<rect x="82.1" y="160.0" width="12.8" height="70.0" fill="#48bb78"/>
+<rect x="82.1" y="160.0" width="12.8" height="70.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="94.9,230.0 94.9,160.0 104.7,153.7 104.7,223.7" fill="#276642"/>
+<text x="92.5" y="130.0" font-size="11" fill="#e6e6e6" text-anchor="middle" font-weight="bold">160 m</text>
+<polygon points="162.7,160.0 178.9,160.0 188.7,153.7 172.5,153.7" fill="#7ecfa0"/>
+<rect x="162.7" y="160.0" width="16.2" height="70.0" fill="#48bb78"/>
+<rect x="162.7" y="160.0" width="16.2" height="70.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="178.9,230.0 178.9,160.0 188.7,153.7 188.7,223.7" fill="#276642"/>
+<text x="174.8" y="264.0" font-size="11" fill="#e6e6e6" text-anchor="middle" font-weight="bold">80 m</text>
+<polygon points="213.8,160.0 218.8,160.0 228.6,153.7 223.6,153.7" fill="#7ecfa0"/>
+<rect x="213.8" y="160.0" width="5.0" height="70.0" fill="#48bb78"/>
+<rect x="213.8" y="160.0" width="5.0" height="70.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="218.8,230.0 218.8,160.0 228.6,153.7 228.6,223.7" fill="#276642"/>
+<text x="218.6" y="130.0" font-size="11" fill="#e6e6e6" text-anchor="middle" font-weight="bold">60 m</text>
+<polygon points="246.8,160.0 251.9,160.0 261.7,153.7 256.6,153.7" fill="#7ecfa0"/>
+<rect x="246.8" y="160.0" width="5.1" height="70.0" fill="#48bb78"/>
+<rect x="246.8" y="160.0" width="5.1" height="70.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="251.9,230.0 251.9,160.0 261.7,153.7 261.7,223.7" fill="#276642"/>
+<text x="253.3" y="264.0" font-size="11" fill="#e6e6e6" text-anchor="middle" font-weight="bold">40 m</text>
+<polygon points="291.2,160.0 296.2,160.0 306.0,153.7 301.0,153.7" fill="#7ecfa0"/>
+<rect x="291.2" y="160.0" width="5.0" height="70.0" fill="#48bb78"/>
+<rect x="291.2" y="160.0" width="5.0" height="70.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="296.2,230.0 296.2,160.0 306.0,153.7 306.0,223.7" fill="#276642"/>
+<text x="295.5" y="130.0" font-size="11" fill="#e6e6e6" text-anchor="middle" font-weight="bold">30 m</text>
+<polygon points="330.8,160.0 335.8,160.0 345.6,153.7 340.6,153.7" fill="#7ecfa0"/>
+<rect x="330.8" y="160.0" width="5.0" height="70.0" fill="#48bb78"/>
+<rect x="330.8" y="160.0" width="5.0" height="70.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="335.8,230.0 335.8,160.0 345.6,153.7 345.6,223.7" fill="#276642"/>
+<text x="336.3" y="264.0" font-size="11" fill="#e6e6e6" text-anchor="middle" font-weight="bold">20 m</text>
+<polygon points="361.8,160.0 366.8,160.0 376.6,153.7 371.6,153.7" fill="#7ecfa0"/>
+<rect x="361.8" y="160.0" width="5.0" height="70.0" fill="#48bb78"/>
+<rect x="361.8" y="160.0" width="5.0" height="70.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="366.8,230.0 366.8,160.0 376.6,153.7 376.6,223.7" fill="#276642"/>
+<text x="366.1" y="130.0" font-size="11" fill="#e6e6e6" text-anchor="middle" font-weight="bold">17 m</text>
+<polygon points="380.0,160.0 385.0,160.0 394.8,153.7 389.8,153.7" fill="#7ecfa0"/>
+<rect x="380.0" y="160.0" width="5.0" height="70.0" fill="#48bb78"/>
+<rect x="380.0" y="160.0" width="5.0" height="70.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="385.0,230.0 385.0,160.0 394.8,153.7 394.8,223.7" fill="#276642"/>
+<text x="385.3" y="264.0" font-size="11" fill="#e6e6e6" text-anchor="middle" font-weight="bold">15 m</text>
+<polygon points="400.6,160.0 405.6,160.0 415.4,153.7 410.4,153.7" fill="#7ecfa0"/>
+<rect x="400.6" y="160.0" width="5.0" height="70.0" fill="#48bb78"/>
+<rect x="400.6" y="160.0" width="5.0" height="70.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="405.6,230.0 405.6,160.0 415.4,153.7 415.4,223.7" fill="#276642"/>
+<text x="404.9" y="130.0" font-size="11" fill="#e6e6e6" text-anchor="middle" font-weight="bold">12 m</text>
+<polygon points="414.9,160.0 422.0,160.0 431.8,153.7 424.7,153.7" fill="#7ecfa0"/>
+<rect x="414.9" y="160.0" width="7.1" height="70.0" fill="#48bb78"/>
+<rect x="414.9" y="160.0" width="7.1" height="70.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="422.0,230.0 422.0,160.0 431.8,153.7 431.8,223.7" fill="#276642"/>
+<text x="422.5" y="264.0" font-size="11" fill="#e6e6e6" text-anchor="middle" font-weight="bold">10 m</text>
+<polygon points="485.2,160.0 494.5,160.0 504.3,153.7 495.0,153.7" fill="#7ab7ea"/>
+<rect x="485.2" y="160.0" width="9.3" height="70.0" fill="#4299e1"/>
+<rect x="485.2" y="160.0" width="9.3" height="70.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="494.5,230.0 494.5,160.0 504.3,153.7 504.3,223.7" fill="#24547b"/>
+<text x="493.9" y="130.0" font-size="11" fill="#e6e6e6" text-anchor="middle" font-weight="bold">6 m</text>
+<polygon points="613.5,160.0 618.5,160.0 628.3,153.7 623.3,153.7" fill="#7ab7ea"/>
+<rect x="613.5" y="160.0" width="5.0" height="70.0" fill="#4299e1"/>
+<rect x="613.5" y="160.0" width="5.0" height="70.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="618.5,230.0 618.5,160.0 628.3,153.7 628.3,223.7" fill="#24547b"/>
+<text x="619.1" y="264.0" font-size="11" fill="#e6e6e6" text-anchor="middle" font-weight="bold">2 m</text>
+<polygon points="664.3,160.0 669.3,160.0 679.1,153.7 674.1,153.7" fill="#7ab7ea"/>
+<rect x="664.3" y="160.0" width="5.0" height="70.0" fill="#4299e1"/>
+<rect x="664.3" y="160.0" width="5.0" height="70.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="669.3,230.0 669.3,160.0 679.1,153.7 679.1,223.7" fill="#24547b"/>
+<text x="669.9" y="130.0" font-size="11" fill="#e6e6e6" text-anchor="middle" font-weight="bold">1.25 m</text>
+<polygon points="746.1,160.0 751.6,160.0 761.4,153.7 755.9,153.7" fill="#7ab7ea"/>
+<rect x="746.1" y="160.0" width="5.5" height="70.0" fill="#4299e1"/>
+<rect x="746.1" y="160.0" width="5.5" height="70.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="751.6,230.0 751.6,160.0 761.4,153.7 761.4,223.7" fill="#24547b"/>
+<text x="752.9" y="264.0" font-size="11" fill="#e6e6e6" text-anchor="middle" font-weight="bold">70 cm</text>
+<polygon points="835.9,160.0 840.9,160.0 850.7,153.7 845.7,153.7" fill="#7ab7ea"/>
+<rect x="835.9" y="160.0" width="5.0" height="70.0" fill="#4299e1"/>
+<rect x="835.9" y="160.0" width="5.0" height="70.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="840.9,230.0 840.9,160.0 850.7,153.7 850.7,223.7" fill="#24547b"/>
+<text x="841.7" y="130.0" font-size="11" fill="#e6e6e6" text-anchor="middle" font-weight="bold">33 cm</text>
+<line x1="423.3" y1="100" x2="423.3" y2="330" stroke="#fc8181" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="423.3" y="94.0" font-size="13" fill="#fc8181" text-anchor="middle" font-weight="bold">30 MHz</text>
+<text x="94.9" y="306.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">2 MHz</text>
+<text x="206.0" y="306.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">5 MHz</text>
+<text x="290.0" y="306.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">10 MHz</text>
+<text x="374.1" y="306.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">20 MHz</text>
+<text x="485.2" y="306.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">50 MHz</text>
+<text x="569.2" y="306.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">100 MHz</text>
+<text x="653.3" y="306.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">200 MHz</text>
+<text x="764.4" y="306.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">500 MHz</text>
+<text x="848.4" y="306.0" font-size="10" fill="#a0aec0" text-anchor="middle" font-weight="normal">1000 MHz</text>
+<rect x="200" y="350" width="14" height="14" rx="3" fill="#48bb78"/>
+<text x="222.0" y="362.0" font-size="12" fill="#e6e6e6" text-anchor="start" font-weight="normal">below 30 MHz: Honours, Morse, or Advanced (with Basic)</text>
+<rect x="200" y="374" width="14" height="14" rx="3" fill="#4299e1"/>
+<text x="222.0" y="386.0" font-size="12" fill="#e6e6e6" text-anchor="start" font-weight="normal">above 30 MHz: Basic</text>
+</svg>

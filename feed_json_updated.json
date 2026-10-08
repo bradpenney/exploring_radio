@@ -1,0 +1,192 @@
+{
+    "version": "https://jsonfeed.org/version/1.1",
+    "title": "Exploring Radio",
+    "home_page_url": "https://radio.bradpenney.io/",
+    "feed_url": "https://radio.bradpenney.io/feed_json_updated.json",
+    "description": "Amateur radio from first principles \u2014 the Canadian certificate exam, antennas, propagation, and getting on the air. Real numbers, no prior knowledge assumed.",
+    "icon": "https://radio.bradpenney.io/images/exploring_radio.png",
+    "authors": [
+        {
+            "name": "Brad Penney"
+        }
+    ],
+    "language": "en",
+    "items": [
+        {
+            "id": "https://radio.bradpenney.io/",
+            "url": "https://radio.bradpenney.io/",
+            "title": "Home",
+            "content_html": "Amateur radio from first principles \u2014 the Canadian certificate exam, antennas, propagation, and getting on the air. Real numbers, no prior knowledge assumed.",
+            "image": null,
+            "date_modified": "2026-10-08T23:53:09-03:00",
+            "date_published": "2026-09-30T21:00:00-03:00",
+            "authors": [],
+            "tags": []
+        },
+        {
+            "id": "https://radio.bradpenney.io/across_borders/",
+            "url": "https://radio.bradpenney.io/across_borders/",
+            "title": "Across Borders",
+            "content_html": "The international rules for Canadian amateurs: the ITU Radio Regulations and regions, third-party traffic, visitors operating in Canada, and operating in the US, CEPT and IARP countries.",
+            "image": null,
+            "date_modified": "2026-10-08T23:53:09-03:00",
+            "date_published": "2026-10-08T23:00:00-03:00",
+            "authors": [],
+            "tags": []
+        },
+        {
+            "id": "https://radio.bradpenney.io/amateurs_code/",
+            "url": "https://radio.bradpenney.io/amateurs_code/",
+            "title": "The Amateur's Code: Ethics on the Air",
+            "content_html": "The two short codes of conduct that shape amateur radio: Canada's Code of Ethics for Amateur Radio Operators (1997) and The Radio Amateur's Code (1928), and what they look like on the air.",
+            "image": null,
+            "date_modified": "2026-10-08T23:53:09-03:00",
+            "date_published": "2026-10-02T12:00:00-03:00",
+            "authors": [],
+            "tags": []
+        },
+        {
+            "id": "https://radio.bradpenney.io/antennas_and_neighbours/",
+            "url": "https://radio.bradpenney.io/antennas_and_neighbours/",
+            "title": "Antennas and Neighbours",
+            "content_html": "The Canadian rules for putting up an amateur antenna (CPC-2-0-03), keeping RF exposure within Safety Code 6, and deciding interference complaints with EMCAB-2.",
+            "image": null,
+            "date_modified": "2026-10-08T23:53:09-03:00",
+            "date_published": "2026-10-09T00:30:00-03:00",
+            "authors": [],
+            "tags": []
+        },
+        {
+            "id": "https://radio.bradpenney.io/decibels/",
+            "url": "https://radio.bradpenney.io/decibels/",
+            "title": "Decibels",
+            "content_html": "Why radio measures gain and loss in decibels: 3 dB doubles power, 10 dB multiplies it by ten, chains of gains and losses add, an S-unit is 6 dB, and antenna gain is quoted in dBi or dBd.",
+            "image": null,
+            "date_modified": "2026-10-08T23:53:09-03:00",
+            "date_published": "2026-10-09T02:30:00-03:00",
+            "authors": [],
+            "tags": []
+        },
+        {
+            "id": "https://radio.bradpenney.io/getting_licensed/",
+            "url": "https://radio.bradpenney.io/getting_licensed/",
+            "title": "Overview",
+            "content_html": "The Getting Licensed articles in reading order: how to get your Canadian amateur radio certificate, then exactly what it lets you transmit under RBR-4.",
+            "image": null,
+            "date_modified": "2026-10-08T23:53:09-03:00",
+            "date_published": "2026-10-08T18:30:00-03:00",
+            "authors": [],
+            "tags": []
+        },
+        {
+            "id": "https://radio.bradpenney.io/getting_your_certificate/",
+            "url": "https://radio.bradpenney.io/getting_your_certificate/",
+            "title": "Getting Your Certificate",
+            "content_html": "How to get a ham radio licence in Canada: the Basic Qualification exam, what 70% and 80% unlock, finding an examiner, fees, and your call sign. Sourced from ISED.",
+            "image": null,
+            "date_modified": "2026-10-08T23:53:09-03:00",
+            "date_published": "2026-10-08T12:00:00-03:00",
+            "authors": [],
+            "tags": []
+        },
+        {
+            "id": "https://radio.bradpenney.io/radio_fundamentals/",
+            "url": "https://radio.bradpenney.io/radio_fundamentals/",
+            "title": "Overview",
+            "content_html": "The Radio Fundamentals articles in reading order: frequency and wavelength, the radio spectrum, decibels, reactance, and resonance, building on the electricity from Exploring Electronics.",
+            "image": null,
+            "date_modified": "2026-10-08T23:53:09-03:00",
+            "date_published": "2026-10-09T02:45:00-03:00",
+            "authors": [],
+            "tags": []
+        },
+        {
+            "id": "https://radio.bradpenney.io/reactance_and_impedance/",
+            "url": "https://radio.bradpenney.io/reactance_and_impedance/",
+            "title": "Reactance and Impedance",
+            "content_html": "Reactance in ohms: an inductor's rises with frequency (2\u03c0fL), a capacitor's falls (1/2\u03c0fC). Why an RF choke and a bypass capacitor stop RF but leave audio alone, and impedance as the total opposition to AC.",
+            "image": null,
+            "date_modified": "2026-10-08T23:53:09-03:00",
+            "date_published": "2026-10-09T03:30:00-03:00",
+            "authors": [],
+            "tags": []
+        },
+        {
+            "id": "https://radio.bradpenney.io/resonance/",
+            "url": "https://radio.bradpenney.io/resonance/",
+            "title": "Resonance and Tuned Circuits",
+            "content_html": "Resonance is where a coil's reactance equals a capacitor's. The resonant-frequency formula, series circuits (lowest impedance) versus parallel (highest), bandwidth, and how receivers and antenna traps use it.",
+            "image": null,
+            "date_modified": "2026-10-08T23:53:09-03:00",
+            "date_published": "2026-10-09T04:30:00-03:00",
+            "authors": [],
+            "tags": []
+        },
+        {
+            "id": "https://radio.bradpenney.io/start_here/",
+            "url": "https://radio.bradpenney.io/start_here/",
+            "title": "Start Here",
+            "content_html": "Radio is electricity that changes direction millions of times a second. The electricity you need first, in order, mapped to the Canadian Basic Qualification syllabus.",
+            "image": null,
+            "date_modified": "2026-10-08T23:53:09-03:00",
+            "date_published": "2026-10-01T14:00:00-03:00",
+            "authors": [],
+            "tags": []
+        },
+        {
+            "id": "https://radio.bradpenney.io/what_is_a_radio_wave/",
+            "url": "https://radio.bradpenney.io/what_is_a_radio_wave/",
+            "title": "What Is a Radio Wave?",
+            "content_html": "A radio wave is alternating current set loose from the wire. Frequency and wavelength are one number in two units, wavelength in metres is 300 divided by megahertz, and the ITU's decade bands from VLF to EHF.",
+            "image": null,
+            "date_modified": "2026-10-08T23:53:09-03:00",
+            "date_published": "2026-10-09T01:30:00-03:00",
+            "authors": [],
+            "tags": []
+        },
+        {
+            "id": "https://radio.bradpenney.io/what_you_may_say/",
+            "url": "https://radio.bradpenney.io/what_you_may_say/",
+            "title": "What You May Say",
+            "content_html": "The Canadian rules for what goes over the air: no music, business, secret codes, or payment; who may transmit; sharing bands; emergencies; privacy and penalties.",
+            "image": null,
+            "date_modified": "2026-10-08T23:53:09-03:00",
+            "date_published": "2026-10-08T22:00:00-03:00",
+            "authors": [],
+            "tags": []
+        },
+        {
+            "id": "https://radio.bradpenney.io/what_you_may_transmit/",
+            "url": "https://radio.bradpenney.io/what_you_may_transmit/",
+            "title": "What You May Transmit",
+            "content_html": "What a Canadian amateur certificate allows: which bands each qualification may use, maximum bandwidth, power limits, identification, and RBR-4's technical rules.",
+            "image": null,
+            "date_modified": "2026-10-08T23:53:09-03:00",
+            "date_published": "2026-10-08T18:00:00-03:00",
+            "authors": [],
+            "tags": []
+        },
+        {
+            "id": "https://radio.bradpenney.io/who_enforces_the_rules/",
+            "url": "https://radio.bradpenney.io/who_enforces_the_rules/",
+            "title": "Who Enforces the Rules",
+            "content_html": "Where Canada's amateur radio rules come from, what an ISED radio inspector may and may not do, how a certificate can be suspended, and the two routes to a penalty.",
+            "image": null,
+            "date_modified": "2026-10-08T23:53:09-03:00",
+            "date_published": "2026-10-08T23:45:00-03:00",
+            "authors": [],
+            "tags": []
+        },
+        {
+            "id": "https://radio.bradpenney.io/tools/ised_basic_anki_deck/",
+            "url": "https://radio.bradpenney.io/tools/ised_basic_anki_deck/",
+            "title": "ISED Basic Anki Deck",
+            "content_html": "A free Anki deck of all 984 questions in ISED's Basic Qualification question bank, organized by exam section, with notes on what the exam actually draws from it.",
+            "image": null,
+            "date_modified": "2026-10-08T23:53:09-03:00",
+            "date_published": "2026-09-30T22:00:00-03:00",
+            "authors": [],
+            "tags": []
+        }
+    ]
+}

@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<?xml-stylesheet type="text/xsl" href="rss.xsl"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>Exploring Radio</title>
+    <description>Amateur radio from first principles — the Canadian certificate exam, antennas, propagation, and getting on the air. Real numbers, no prior knowledge assumed.</description>
+    <link>https://radio.bradpenney.io/</link>
+    <atom:link href="https://radio.bradpenney.io/feed_rss_created.xml" rel="self" type="application/rss+xml" />
+
+    
+    <managingEditor>Brad Penney</managingEditor>
+    
+    <language>en</language>
+
+    
+    <pubDate>Thu, 08 Oct 2026 23:54:06 -0000</pubDate>
+    <lastBuildDate>Thu, 08 Oct 2026 23:54:06 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.19.0</generator>
+
+    
+    
+    <image>
+      <url>https://radio.bradpenney.io/images/exploring_radio.png</url>
+      <title>Exploring Radio</title>
+      <link>https://radio.bradpenney.io/</link>
+    </image>
+    
+
+    
+    
+    <item>
+      <title>Resonance and Tuned Circuits</title>
+      
+      
+      
+      
+        
+      
+      <description>Resonance is where a coil&#39;s reactance equals a capacitor&#39;s. The resonant-frequency formula, series circuits (lowest impedance) versus parallel (highest), bandwidth, and how receivers and antenna traps use it.</description>
+      <link>https://radio.bradpenney.io/resonance/</link>
+      <pubDate>Fri, 09 Oct 2026 04:30:00 -0300</pubDate>
+      <source url="https://radio.bradpenney.io/feed_rss_created.xml">Exploring Radio</source>
+      
+      <guid isPermaLink="true">https://radio.bradpenney.io/resonance/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Reactance and Impedance</title>
+      
+      
+      
+      
+        
+      
+      <description>Reactance in ohms: an inductor&#39;s rises with frequency (2πfL), a capacitor&#39;s falls (1/2πfC). Why an RF choke and a bypass capacitor stop RF but leave audio alone, and impedance as the total opposition to AC.</description>
+      <link>https://radio.bradpenney.io/reactance_and_impedance/</link>
+      <pubDate>Fri, 09 Oct 2026 03:30:00 -0300</pubDate>
+      <source url="https://radio.bradpenney.io/feed_rss_created.xml">Exploring Radio</source>
+      
+      <guid isPermaLink="true">https://radio.bradpenney.io/reactance_and_impedance/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      
+      
+      
+      
+        
+      
+      <description>The Radio Fundamentals articles in reading order: frequency and wavelength, the radio spectrum, decibels, reactance, and resonance, building on the electricity from Exploring Electronics.</description>
+      <link>https://radio.bradpenney.io/radio_fundamentals/</link>
+      <pubDate>Fri, 09 Oct 2026 02:45:00 -0300</pubDate>
+      <source url="https://radio.bradpenney.io/feed_rss_created.xml">Exploring Radio</source>
+      
+      <guid isPermaLink="true">https://radio.bradpenney.io/radio_fundamentals/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Decibels</title>
+      
+      
+      
+      
+        
+      
+      <description>Why radio measures gain and loss in decibels: 3 dB doubles power, 10 dB multiplies it by ten, chains of gains and losses add, an S-unit is 6 dB, and antenna gain is quoted in dBi or dBd.</description>
+      <link>https://radio.bradpenney.io/decibels/</link>
+      <pubDate>Fri, 09 Oct 2026 02:30:00 -0300</pubDate>
+      <source url="https://radio.bradpenney.io/feed_rss_created.xml">Exploring Radio</source>
+      
+      <guid isPermaLink="true">https://radio.bradpenney.io/decibels/</guid>
+      
+    </item>
+    
+    <item>
+      <title>What Is a Radio Wave?</title>
+      
+      
+      
+      
+        
+      
+      <description>A radio wave is alternating current set loose from the wire. Frequency and wavelength are one number in two units, wavelength in metres is 300 divided by megahertz, and the ITU&#39;s decade bands from VLF to EHF.</description>
+      <link>https://radio.bradpenney.io/what_is_a_radio_wave/</link>
+      <pubDate>Fri, 09 Oct 2026 01:30:00 -0300</pubDate>
+      <source url="https://radio.bradpenney.io/feed_rss_created.xml">Exploring Radio</source>
+      
+      <guid isPermaLink="true">https://radio.bradpenney.io/what_is_a_radio_wave/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Antennas and Neighbours</title>
+      
+      
+      
+      
+        
+      
+      <description>The Canadian rules for putting up an amateur antenna (CPC-2-0-03), keeping RF exposure within Safety Code 6, and deciding interference complaints with EMCAB-2.</description>
+      <link>https://radio.bradpenney.io/antennas_and_neighbours/</link>
+      <pubDate>Fri, 09 Oct 2026 00:30:00 -0300</pubDate>
+      <source url="https://radio.bradpenney.io/feed_rss_created.xml">Exploring Radio</source>
+      
+      <guid isPermaLink="true">https://radio.bradpenney.io/antennas_and_neighbours/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Who Enforces the Rules</title>
+      
+      
+      
+      
+        
+      
+      <description>Where Canada&#39;s amateur radio rules come from, what an ISED radio inspector may and may not do, how a certificate can be suspended, and the two routes to a penalty.</description>
+      <link>https://radio.bradpenney.io/who_enforces_the_rules/</link>
+      <pubDate>Thu, 08 Oct 2026 23:45:00 -0300</pubDate>
+      <source url="https://radio.bradpenney.io/feed_rss_created.xml">Exploring Radio</source>
+      
+      <guid isPermaLink="true">https://radio.bradpenney.io/who_enforces_the_rules/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Across Borders</title>
+      
+      
+      
+      
+        
+      
+      <description>The international rules for Canadian amateurs: the ITU Radio Regulations and regions, third-party traffic, visitors operating in Canada, and operating in the US, CEPT and IARP countries.</description>
+      <link>https://radio.bradpenney.io/across_borders/</link>
+      <pubDate>Thu, 08 Oct 2026 23:00:00 -0300</pubDate>
+      <source url="https://radio.bradpenney.io/feed_rss_created.xml">Exploring Radio</source>
+      
+      <guid isPermaLink="true">https://radio.bradpenney.io/across_borders/</guid>
+      
+    </item>
+    
+    <item>
+      <title>What You May Say</title>
+      
+      
+      
+      
+        
+      
+      <description>The Canadian rules for what goes over the air: no music, business, secret codes, or payment; who may transmit; sharing bands; emergencies; privacy and penalties.</description>
+      <link>https://radio.bradpenney.io/what_you_may_say/</link>
+      <pubDate>Thu, 08 Oct 2026 22:00:00 -0300</pubDate>
+      <source url="https://radio.bradpenney.io/feed_rss_created.xml">Exploring Radio</source>
+      
+      <guid isPermaLink="true">https://radio.bradpenney.io/what_you_may_say/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      
+      
+      
+      
+        
+      
+      <description>The Getting Licensed articles in reading order: how to get your Canadian amateur radio certificate, then exactly what it lets you transmit under RBR-4.</description>
+      <link>https://radio.bradpenney.io/getting_licensed/</link>
+      <pubDate>Thu, 08 Oct 2026 18:30:00 -0300</pubDate>
+      <source url="https://radio.bradpenney.io/feed_rss_created.xml">Exploring Radio</source>
+      
+      <guid isPermaLink="true">https://radio.bradpenney.io/getting_licensed/</guid>
+      
+    </item>
+    
+    <item>
+      <title>What You May Transmit</title>
+      
+      
+      
+      
+        
+      
+      <description>What a Canadian amateur certificate allows: which bands each qualification may use, maximum bandwidth, power limits, identification, and RBR-4&#39;s technical rules.</description>
+      <link>https://radio.bradpenney.io/what_you_may_transmit/</link>
+      <pubDate>Thu, 08 Oct 2026 18:00:00 -0300</pubDate>
+      <source url="https://radio.bradpenney.io/feed_rss_created.xml">Exploring Radio</source>
+      
+      <guid isPermaLink="true">https://radio.bradpenney.io/what_you_may_transmit/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Getting Your Certificate</title>
+      
+      
+      
+      
+        
+      
+      <description>How to get a ham radio licence in Canada: the Basic Qualification exam, what 70% and 80% unlock, finding an examiner, fees, and your call sign. Sourced from ISED.</description>
+      <link>https://radio.bradpenney.io/getting_your_certificate/</link>
+      <pubDate>Thu, 08 Oct 2026 12:00:00 -0300</pubDate>
+      <source url="https://radio.bradpenney.io/feed_rss_created.xml">Exploring Radio</source>
+      
+      <guid isPermaLink="true">https://radio.bradpenney.io/getting_your_certificate/</guid>
+      
+    </item>
+    
+    <item>
+      <title>The Amateur&#39;s Code: Ethics on the Air</title>
+      
+      
+      
+      
+        
+      
+      <description>The two short codes of conduct that shape amateur radio: Canada&#39;s Code of Ethics for Amateur Radio Operators (1997) and The Radio Amateur&#39;s Code (1928), and what they look like on the air.</description>
+      <link>https://radio.bradpenney.io/amateurs_code/</link>
+      <pubDate>Fri, 02 Oct 2026 12:00:00 -0300</pubDate>
+      <source url="https://radio.bradpenney.io/feed_rss_created.xml">Exploring Radio</source>
+      
+      <guid isPermaLink="true">https://radio.bradpenney.io/amateurs_code/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Start Here</title>
+      
+      
+      
+      
+        
+      
+      <description>Radio is electricity that changes direction millions of times a second. The electricity you need first, in order, mapped to the Canadian Basic Qualification syllabus.</description>
+      <link>https://radio.bradpenney.io/start_here/</link>
+      <pubDate>Thu, 01 Oct 2026 14:00:00 -0300</pubDate>
+      <source url="https://radio.bradpenney.io/feed_rss_created.xml">Exploring Radio</source>
+      
+      <guid isPermaLink="true">https://radio.bradpenney.io/start_here/</guid>
+      
+    </item>
+    
+    <item>
+      <title>ISED Basic Anki Deck</title>
+      
+      
+      
+      
+        
+      
+      <description>A free Anki deck of all 984 questions in ISED&#39;s Basic Qualification question bank, organized by exam section, with notes on what the exam actually draws from it.</description>
+      <link>https://radio.bradpenney.io/tools/ised_basic_anki_deck/</link>
+      <pubDate>Wed, 30 Sep 2026 22:00:00 -0300</pubDate>
+      <source url="https://radio.bradpenney.io/feed_rss_created.xml">Exploring Radio</source>
+      
+      <guid isPermaLink="true">https://radio.bradpenney.io/tools/ised_basic_anki_deck/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Home</title>
+      
+      
+      
+      
+        
+      
+      <description>Amateur radio from first principles — the Canadian certificate exam, antennas, propagation, and getting on the air. Real numbers, no prior knowledge assumed.</description>
+      <link>https://radio.bradpenney.io/</link>
+      <pubDate>Wed, 30 Sep 2026 21:00:00 -0300</pubDate>
+      <source url="https://radio.bradpenney.io/feed_rss_created.xml">Exploring Radio</source>
+      
+      <guid isPermaLink="true">https://radio.bradpenney.io/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>

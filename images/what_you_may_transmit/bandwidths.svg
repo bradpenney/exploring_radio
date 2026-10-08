@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" width="900" height="440" role="img" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">
+<title>Bars of the maximum bandwidth RBR-4 allows by band, on a logarithmic scale: 1 kilohertz on 30 metres, 6 kilohertz on most HF bands, 20 on 10 metres, 30 on 6 and 2 metres, 100 on 1.25 metres, and 12 megahertz on 70 and 33 centimetres. A dashed line at 2.8 kilohertz, the width of single-sideband voice, crosses every bar except 30 metres, where voice is too wide to fit. Morse code at 150 hertz fits everywhere.</title>
+<defs><radialGradient id="eball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#cbd5e0"/><stop offset="1" stop-color="#4a5568"/></radialGradient><radialGradient id="vball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff7e0"/><stop offset="0.45" stop-color="#f59e0b"/><stop offset="1" stop-color="#92400e"/></radialGradient><radialGradient id="core" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#e2e8f0"/><stop offset="0.45" stop-color="#718096"/><stop offset="1" stop-color="#1a202c"/></radialGradient><radialGradient id="silverball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#c0c6cf"/><stop offset="1" stop-color="#5a6270"/></radialGradient><radialGradient id="copperball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffd2b0"/><stop offset="0.45" stop-color="#c8733c"/><stop offset="1" stop-color="#5e2b10"/></radialGradient><radialGradient id="goldball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff3b0"/><stop offset="0.45" stop-color="#e6b422"/><stop offset="1" stop-color="#7a5a00"/></radialGradient><radialGradient id="alball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#f0f6ff"/><stop offset="0.45" stop-color="#a8b8cc"/><stop offset="1" stop-color="#4a5868"/></radialGradient><radialGradient id="glow" r="50%"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.55"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient><linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d3748" stop-opacity="0.45"/><stop offset="1" stop-color="#1a202c" stop-opacity="0.15"/></linearGradient><linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="0.45" stop-color="#ffffff" stop-opacity="0.05"/><stop offset="0.55" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.35"/></linearGradient><filter id="softglow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f59e0b"/></marker></defs>
+<rect x="15" y="15" width="870" height="410" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="450.0" y="48.0" font-size="16" fill="#fbbf24" text-anchor="middle" font-weight="bold">Maximum bandwidth by band (RBR-4 Column II), and where a 2.8 kHz voice signal fits</text>
+<text x="218.0" y="116.0" font-size="13" fill="#e6e6e6" text-anchor="end" font-weight="bold">30 m</text>
+<rect x="230" y="100" width="115.1" height="22" rx="6" fill="#fc8181" fill-opacity="0.8"/>
+<rect x="230" y="100" width="115.1" height="22" rx="6" fill="url(#gloss)" opacity="0.4"/>
+<text x="353.1" y="116.0" font-size="13" fill="#e6e6e6" text-anchor="start" font-weight="bold">1 kHz</text>
+<text x="218.0" y="162.0" font-size="13" fill="#e6e6e6" text-anchor="end" font-weight="bold">most HF bands</text>
+<rect x="230" y="146" width="204.6" height="22" rx="6" fill="#48bb78" fill-opacity="0.8"/>
+<rect x="230" y="146" width="204.6" height="22" rx="6" fill="url(#gloss)" opacity="0.4"/>
+<text x="442.6" y="162.0" font-size="13" fill="#e6e6e6" text-anchor="start" font-weight="bold">6 kHz</text>
+<text x="218.0" y="208.0" font-size="13" fill="#e6e6e6" text-anchor="end" font-weight="bold">10 m</text>
+<rect x="230" y="192" width="264.8" height="22" rx="6" fill="#48bb78" fill-opacity="0.8"/>
+<rect x="230" y="192" width="264.8" height="22" rx="6" fill="url(#gloss)" opacity="0.4"/>
+<text x="502.8" y="208.0" font-size="13" fill="#e6e6e6" text-anchor="start" font-weight="bold">20 kHz</text>
+<text x="218.0" y="254.0" font-size="13" fill="#e6e6e6" text-anchor="end" font-weight="bold">6 m and 2 m</text>
+<rect x="230" y="238" width="285.0" height="22" rx="6" fill="#48bb78" fill-opacity="0.8"/>
+<rect x="230" y="238" width="285.0" height="22" rx="6" fill="url(#gloss)" opacity="0.4"/>
+<text x="523.0" y="254.0" font-size="13" fill="#e6e6e6" text-anchor="start" font-weight="bold">30 kHz</text>
+<text x="218.0" y="300.0" font-size="13" fill="#e6e6e6" text-anchor="end" font-weight="bold">1.25 m</text>
+<rect x="230" y="284" width="345.2" height="22" rx="6" fill="#48bb78" fill-opacity="0.8"/>
+<rect x="230" y="284" width="345.2" height="22" rx="6" fill="url(#gloss)" opacity="0.4"/>
+<text x="583.2" y="300.0" font-size="13" fill="#e6e6e6" text-anchor="start" font-weight="bold">100 kHz</text>
+<text x="218.0" y="346.0" font-size="13" fill="#e6e6e6" text-anchor="end" font-weight="bold">70 cm, 33 cm</text>
+<rect x="230" y="330" width="584.5" height="22" rx="6" fill="#48bb78" fill-opacity="0.8"/>
+<rect x="230" y="330" width="584.5" height="22" rx="6" fill="url(#gloss)" opacity="0.4"/>
+<text x="822.5" y="346.0" font-size="13" fill="#e6e6e6" text-anchor="start" font-weight="bold">12 MHz</text>
+<line x1="396.5" y1="88" x2="396.5" y2="370" stroke="#fbbf24" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="396.5" y="386.0" font-size="12" fill="#fbbf24" text-anchor="middle" font-weight="bold">single-sideband voice: 2.8 kHz</text>
+<line x1="250.3" y1="88" x2="250.3" y2="370" stroke="#90cdf4" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="254.3" y="404.0" font-size="12" fill="#90cdf4" text-anchor="middle" font-weight="bold">Morse (CW): 150 Hz</text>
+<text x="450.0" y="424.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">voice and CW widths from the emission designators in RBR-4 note C21; bar length on a log scale</text>
+</svg>

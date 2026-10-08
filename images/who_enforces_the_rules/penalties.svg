@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 440" width="900" height="440" role="img" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">
+<title>Two routes to a penalty for an individual under the Radiocommunication Act. Prosecution under section 10(1), through a court, for offences such as operating without authorization, interference or a false distress call: a fine up to 5,000 dollars, up to a year in prison, or both. Administrative monetary penalty under section 15.1, with no court, for violations such as operating outside your authorization under section 4(1): up to 25,000 dollars for a first violation and 50,000 dollars for each later one; its stated purpose is to promote compliance, not to punish.</title>
+<defs><radialGradient id="eball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#cbd5e0"/><stop offset="1" stop-color="#4a5568"/></radialGradient><radialGradient id="vball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff7e0"/><stop offset="0.45" stop-color="#f59e0b"/><stop offset="1" stop-color="#92400e"/></radialGradient><radialGradient id="core" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#e2e8f0"/><stop offset="0.45" stop-color="#718096"/><stop offset="1" stop-color="#1a202c"/></radialGradient><radialGradient id="silverball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#c0c6cf"/><stop offset="1" stop-color="#5a6270"/></radialGradient><radialGradient id="copperball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffd2b0"/><stop offset="0.45" stop-color="#c8733c"/><stop offset="1" stop-color="#5e2b10"/></radialGradient><radialGradient id="goldball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff3b0"/><stop offset="0.45" stop-color="#e6b422"/><stop offset="1" stop-color="#7a5a00"/></radialGradient><radialGradient id="alball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#f0f6ff"/><stop offset="0.45" stop-color="#a8b8cc"/><stop offset="1" stop-color="#4a5868"/></radialGradient><radialGradient id="glow" r="50%"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.55"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient><linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d3748" stop-opacity="0.45"/><stop offset="1" stop-color="#1a202c" stop-opacity="0.15"/></linearGradient><linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="0.45" stop-color="#ffffff" stop-opacity="0.05"/><stop offset="0.55" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.35"/></linearGradient><filter id="softglow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f59e0b"/></marker></defs>
+<rect x="15" y="15" width="870" height="410" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="450.0" y="48.0" font-size="17" fill="#fbbf24" text-anchor="middle" font-weight="bold">Two routes to a penalty, for an individual</text>
+<ellipse cx="214.0" cy="325.0" rx="70.0" ry="7.2" fill="#000" fill-opacity="0.4"/>
+<polygon points="150.0,299.0 250.0,299.0 278.0,281.0 178.0,281.0" fill="#f8bb54"/>
+<rect x="150.0" y="299.0" width="100.0" height="21.0" fill="#f59e0b"/>
+<rect x="150.0" y="299.0" width="100.0" height="21.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="250.0,320.0 250.0,299.0 278.0,281.0 278.0,302.0" fill="#865606"/>
+<text x="215.0" y="273.0" font-size="17" fill="#e6e6e6" text-anchor="middle" font-weight="bold">$5,000</text>
+<text x="200.0" y="346.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">+ up to a year in prison</text>
+<ellipse cx="484.0" cy="325.0" rx="70.0" ry="7.2" fill="#000" fill-opacity="0.4"/>
+<polygon points="420.0,215.0 520.0,215.0 548.0,197.0 448.0,197.0" fill="#7ab7ea"/>
+<rect x="420.0" y="215.0" width="100.0" height="105.0" fill="#4299e1"/>
+<rect x="420.0" y="215.0" width="100.0" height="105.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="520.0,320.0 520.0,215.0 548.0,197.0 548.0,302.0" fill="#24547b"/>
+<text x="485.0" y="189.0" font-size="17" fill="#e6e6e6" text-anchor="middle" font-weight="bold">$25,000</text>
+<text x="470.0" y="346.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">first violation</text>
+<ellipse cx="664.0" cy="325.0" rx="70.0" ry="7.2" fill="#000" fill-opacity="0.4"/>
+<polygon points="600.0,110.0 700.0,110.0 728.0,92.0 628.0,92.0" fill="#7ab7ea"/>
+<rect x="600.0" y="110.0" width="100.0" height="210.0" fill="#4299e1"/>
+<rect x="600.0" y="110.0" width="100.0" height="210.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="700.0,320.0 700.0,110.0 728.0,92.0 728.0,302.0" fill="#24547b"/>
+<text x="665.0" y="84.0" font-size="17" fill="#e6e6e6" text-anchor="middle" font-weight="bold">$50,000</text>
+<text x="650.0" y="346.0" font-size="12" fill="#e6e6e6" text-anchor="middle" font-weight="normal">each later one</text>
+<text x="200.0" y="380.0" font-size="13" fill="#fbbf24" text-anchor="middle" font-weight="bold">Prosecution (s. 10(1)): a court, a conviction</text>
+<text x="200.0" y="400.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">e.g. unlicensed operation, interference, false distress</text>
+<text x="585.0" y="380.0" font-size="13" fill="#4299e1" text-anchor="middle" font-weight="bold">Administrative penalty (s. 15.1): no court</text>
+<text x="585.0" y="400.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">e.g. operating outside your authorization (s. 4(1)); "to promote compliance"</text>
+</svg>

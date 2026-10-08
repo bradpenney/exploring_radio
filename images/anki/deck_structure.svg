@@ -1,0 +1,155 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 780 440" width="780" height="440" role="img" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">
+<title>A root stack of 984 cards branching into eight section subdecks, each stack sized by its card count</title>
+<defs><radialGradient id="eball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#cbd5e0"/><stop offset="1" stop-color="#4a5568"/></radialGradient><radialGradient id="vball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff7e0"/><stop offset="0.45" stop-color="#f59e0b"/><stop offset="1" stop-color="#92400e"/></radialGradient><radialGradient id="core" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#e2e8f0"/><stop offset="0.45" stop-color="#718096"/><stop offset="1" stop-color="#1a202c"/></radialGradient><radialGradient id="silverball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#c0c6cf"/><stop offset="1" stop-color="#5a6270"/></radialGradient><radialGradient id="copperball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffd2b0"/><stop offset="0.45" stop-color="#c8733c"/><stop offset="1" stop-color="#5e2b10"/></radialGradient><radialGradient id="goldball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff3b0"/><stop offset="0.45" stop-color="#e6b422"/><stop offset="1" stop-color="#7a5a00"/></radialGradient><radialGradient id="alball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#f0f6ff"/><stop offset="0.45" stop-color="#a8b8cc"/><stop offset="1" stop-color="#4a5868"/></radialGradient><radialGradient id="glow" r="50%"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.55"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient><linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d3748" stop-opacity="0.45"/><stop offset="1" stop-color="#1a202c" stop-opacity="0.15"/></linearGradient><linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="0.45" stop-color="#ffffff" stop-opacity="0.05"/><stop offset="0.55" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.35"/></linearGradient><filter id="softglow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f59e0b"/></marker></defs>
+<rect x="15" y="15" width="750" height="410" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="390.0" y="46.0" font-size="16" fill="#fbbf24" text-anchor="middle" font-weight="bold">ISED Basic Qualification (2025-07-15)</text>
+<path d="M390,214 C390,250 70.0,226 70.0,246.8" fill="none" stroke="#f59e0b" stroke-opacity="0.45" stroke-width="2"/>
+<path d="M390,214 C390,250 161.5,226 161.5,275.6" fill="none" stroke="#f59e0b" stroke-opacity="0.45" stroke-width="2"/>
+<path d="M390,214 C390,250 253.0,226 253.0,246.8" fill="none" stroke="#f59e0b" stroke-opacity="0.45" stroke-width="2"/>
+<path d="M390,214 C390,250 344.5,226 344.5,285.2" fill="none" stroke="#f59e0b" stroke-opacity="0.45" stroke-width="2"/>
+<path d="M390,214 C390,250 436.0,226 436.0,262.8" fill="none" stroke="#f59e0b" stroke-opacity="0.45" stroke-width="2"/>
+<path d="M390,214 C390,250 527.5,226 527.5,262.8" fill="none" stroke="#f59e0b" stroke-opacity="0.45" stroke-width="2"/>
+<path d="M390,214 C390,250 619.0,226 619.0,278.8" fill="none" stroke="#f59e0b" stroke-opacity="0.45" stroke-width="2"/>
+<path d="M390,214 C390,250 710.5,226 710.5,285.2" fill="none" stroke="#f59e0b" stroke-opacity="0.45" stroke-width="2"/>
+<ellipse cx="390" cy="184" rx="44" ry="7" fill="#000" fill-opacity="0.4"/>
+<rect x="356.0" y="134.0" width="68" height="46" rx="6" fill="#d97706" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="356.6" y="130.8" width="68" height="46" rx="6" fill="#d97706" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="357.2" y="127.6" width="68" height="46" rx="6" fill="#d97706" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="357.8" y="124.4" width="68" height="46" rx="6" fill="#d97706" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="358.4" y="121.2" width="68" height="46" rx="6" fill="#d97706" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="359.0" y="118.0" width="68" height="46" rx="6" fill="#d97706" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="359.6" y="114.8" width="68" height="46" rx="6" fill="#d97706" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="360.2" y="111.6" width="68" height="46" rx="6" fill="#d97706" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="360.8" y="108.4" width="68" height="46" rx="6" fill="#d97706" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="361.4" y="105.2" width="68" height="46" rx="6" fill="#d97706" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="362.0" y="102.0" width="68" height="46" rx="6" fill="#d97706" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="362.6" y="98.8" width="68" height="46" rx="6" fill="#d97706" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="362.6" y="98.8" width="68" height="46" rx="6" fill="url(#gloss)"/>
+<text x="396.6" y="127.8" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">984</text>
+<text x="390.0" y="204.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal"></text>
+<text x="390.0" y="204.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">the whole bank</text>
+<ellipse cx="70.0" cy="354" rx="44" ry="7" fill="#000" fill-opacity="0.4"/>
+<rect x="36.0" y="304.0" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="36.6" y="300.8" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="37.2" y="297.6" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="37.8" y="294.4" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="38.4" y="291.2" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="39.0" y="288.0" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="39.6" y="284.8" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="40.2" y="281.6" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="40.8" y="278.4" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="41.4" y="275.2" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="42.0" y="272.0" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="42.6" y="268.8" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="43.2" y="265.6" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="43.8" y="262.4" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="44.4" y="259.2" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="45.0" y="256.0" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="45.6" y="252.8" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="45.6" y="252.8" width="68" height="46" rx="6" fill="url(#gloss)"/>
+<text x="79.6" y="281.8" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">199</text>
+<text x="70.0" y="374.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">B-001</text>
+<text x="70.0" y="390.0" font-size="10" fill="#e6e6e6" text-anchor="middle" font-weight="normal">Regulations</text>
+<ellipse cx="161.5" cy="354" rx="44" ry="7" fill="#000" fill-opacity="0.4"/>
+<rect x="127.5" y="304.0" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="128.1" y="300.8" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="128.7" y="297.6" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="129.3" y="294.4" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="129.9" y="291.2" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="130.5" y="288.0" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="131.1" y="284.8" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="131.7" y="281.6" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="131.7" y="281.6" width="68" height="46" rx="6" fill="url(#gloss)"/>
+<text x="165.7" y="310.6" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">99</text>
+<text x="161.5" y="374.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">B-002</text>
+<text x="161.5" y="390.0" font-size="10" fill="#e6e6e6" text-anchor="middle" font-weight="normal">Operating</text>
+<ellipse cx="253.0" cy="354" rx="44" ry="7" fill="#000" fill-opacity="0.4"/>
+<rect x="219.0" y="304.0" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="219.6" y="300.8" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="220.2" y="297.6" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="220.8" y="294.4" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="221.4" y="291.2" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="222.0" y="288.0" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="222.6" y="284.8" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="223.2" y="281.6" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="223.8" y="278.4" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="224.4" y="275.2" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="225.0" y="272.0" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="225.6" y="268.8" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="226.2" y="265.6" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="226.8" y="262.4" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="227.4" y="259.2" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="228.0" y="256.0" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="228.6" y="252.8" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="228.6" y="252.8" width="68" height="46" rx="6" fill="url(#gloss)"/>
+<text x="262.6" y="281.8" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">199</text>
+<text x="253.0" y="374.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">B-003</text>
+<text x="253.0" y="390.0" font-size="10" fill="#e6e6e6" text-anchor="middle" font-weight="normal">Station &amp; Safety</text>
+<ellipse cx="344.5" cy="354" rx="44" ry="7" fill="#000" fill-opacity="0.4"/>
+<rect x="310.5" y="304.0" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="311.1" y="300.8" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="311.7" y="297.6" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="312.3" y="294.4" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="312.9" y="291.2" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="312.9" y="291.2" width="68" height="46" rx="6" fill="url(#gloss)"/>
+<text x="346.9" y="320.2" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">63</text>
+<text x="344.5" y="374.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">B-004</text>
+<text x="344.5" y="390.0" font-size="10" fill="#e6e6e6" text-anchor="middle" font-weight="normal">Components</text>
+<ellipse cx="436.0" cy="354" rx="44" ry="7" fill="#000" fill-opacity="0.4"/>
+<rect x="402.0" y="304.0" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="402.6" y="300.8" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="403.2" y="297.6" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="403.8" y="294.4" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="404.4" y="291.2" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="405.0" y="288.0" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="405.6" y="284.8" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="406.2" y="281.6" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="406.8" y="278.4" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="407.4" y="275.2" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="408.0" y="272.0" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="408.6" y="268.8" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="408.6" y="268.8" width="68" height="46" rx="6" fill="url(#gloss)"/>
+<text x="442.6" y="297.8" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">142</text>
+<text x="436.0" y="374.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">B-005</text>
+<text x="436.0" y="390.0" font-size="10" fill="#e6e6e6" text-anchor="middle" font-weight="normal">Electronics</text>
+<ellipse cx="527.5" cy="354" rx="44" ry="7" fill="#000" fill-opacity="0.4"/>
+<rect x="493.5" y="304.0" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="494.1" y="300.8" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="494.7" y="297.6" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="495.3" y="294.4" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="495.9" y="291.2" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="496.5" y="288.0" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="497.1" y="284.8" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="497.7" y="281.6" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="498.3" y="278.4" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="498.9" y="275.2" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="499.5" y="272.0" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="500.1" y="268.8" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="500.1" y="268.8" width="68" height="46" rx="6" fill="url(#gloss)"/>
+<text x="534.1" y="297.8" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">140</text>
+<text x="527.5" y="374.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">B-006</text>
+<text x="527.5" y="390.0" font-size="10" fill="#e6e6e6" text-anchor="middle" font-weight="normal">Antennas &amp; Feedlines</text>
+<ellipse cx="619.0" cy="354" rx="44" ry="7" fill="#000" fill-opacity="0.4"/>
+<rect x="585.0" y="304.0" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="585.6" y="300.8" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="586.2" y="297.6" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="586.8" y="294.4" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="587.4" y="291.2" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="588.0" y="288.0" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="588.6" y="284.8" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="588.6" y="284.8" width="68" height="46" rx="6" fill="url(#gloss)"/>
+<text x="622.6" y="313.8" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">87</text>
+<text x="619.0" y="374.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">B-007</text>
+<text x="619.0" y="390.0" font-size="10" fill="#e6e6e6" text-anchor="middle" font-weight="normal">Propagation</text>
+<ellipse cx="710.5" cy="354" rx="44" ry="7" fill="#000" fill-opacity="0.4"/>
+<rect x="676.5" y="304.0" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="677.1" y="300.8" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="677.7" y="297.6" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="678.3" y="294.4" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="678.9" y="291.2" width="68" height="46" rx="6" fill="#2d3748" stroke="#cbd5e0" stroke-opacity="0.35"/>
+<rect x="678.9" y="291.2" width="68" height="46" rx="6" fill="url(#gloss)"/>
+<text x="712.9" y="320.2" font-size="16" fill="#fff" text-anchor="middle" font-weight="bold">55</text>
+<text x="710.5" y="374.0" font-size="11" fill="#a0aec0" text-anchor="middle" font-weight="normal">B-008</text>
+<text x="710.5" y="390.0" font-size="10" fill="#e6e6e6" text-anchor="middle" font-weight="normal">Interference</text>
+<text x="390.0" y="410.0" font-size="12" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">stack height shows the number of cards in each section's subdeck</text>
+</svg>
