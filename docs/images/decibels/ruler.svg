@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400" role="img" font-family="IBM Plex Sans, Helvetica, Arial, sans-serif">
+<title>A decibel ruler from minus 10 to plus 30 dB with the matching power ratios: minus 10 dB divides by 10, minus 6 dB divides by 4, minus 3 dB divides by 2, 0 dB is the same, plus 3 dB doubles, plus 6 dB is 4 times, plus 10 dB is 10 times, plus 13 dB is 20 times, plus 20 dB is 100 times and plus 30 dB is 1,000 times. Losses are negative dB, gains positive. Learn two anchors, plus 3 dB is times 2 and plus 10 dB is times 10; every other value is built by adding them.</title>
+<defs><radialGradient id="eball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#cbd5e0"/><stop offset="1" stop-color="#4a5568"/></radialGradient><radialGradient id="vball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff7e0"/><stop offset="0.45" stop-color="#f59e0b"/><stop offset="1" stop-color="#92400e"/></radialGradient><radialGradient id="core" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#e2e8f0"/><stop offset="0.45" stop-color="#718096"/><stop offset="1" stop-color="#1a202c"/></radialGradient><radialGradient id="silverball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffffff"/><stop offset="0.45" stop-color="#c0c6cf"/><stop offset="1" stop-color="#5a6270"/></radialGradient><radialGradient id="copperball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#ffd2b0"/><stop offset="0.45" stop-color="#c8733c"/><stop offset="1" stop-color="#5e2b10"/></radialGradient><radialGradient id="goldball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#fff3b0"/><stop offset="0.45" stop-color="#e6b422"/><stop offset="1" stop-color="#7a5a00"/></radialGradient><radialGradient id="alball" cx="35%" cy="32%" r="70%"><stop offset="0" stop-color="#f0f6ff"/><stop offset="0.45" stop-color="#a8b8cc"/><stop offset="1" stop-color="#4a5868"/></radialGradient><radialGradient id="glow" r="50%"><stop offset="0" stop-color="#f59e0b" stop-opacity="0.55"/><stop offset="1" stop-color="#f59e0b" stop-opacity="0"/></radialGradient><linearGradient id="panel" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2d3748" stop-opacity="0.45"/><stop offset="1" stop-color="#1a202c" stop-opacity="0.15"/></linearGradient><linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0.45"/><stop offset="0.45" stop-color="#ffffff" stop-opacity="0.05"/><stop offset="0.55" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.35"/></linearGradient><filter id="softglow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#f59e0b"/></marker></defs>
+<rect x="15" y="15" width="870" height="370" rx="14" fill="url(#panel)" stroke="#4a5568" stroke-opacity="0.6"/>
+<text x="450.0" y="48.0" font-size="15" fill="#fbbf24" text-anchor="middle" font-weight="bold">The decibel ruler: equal steps in dB are equal multiplications of power</text>
+<ellipse cx="470.5" cy="233.0" rx="396.5" ry="5.4" fill="#000" fill-opacity="0.4"/>
+<polygon points="80.0,210.0 840.0,210.0 861.0,196.5 101.0,196.5" fill="#9483b6"/>
+<rect x="80.0" y="210.0" width="760.0" height="18.0" fill="#674f98"/>
+<rect x="80.0" y="210.0" width="760.0" height="18.0" fill="url(#gloss)" opacity="0.6"/>
+<polygon points="840.0,228.0 840.0,210.0 861.0,196.5 861.0,214.5" fill="#382b53"/>
+<line x1="80.0" y1="184" x2="80.0" y2="210" stroke="#fc8181" stroke-width="3"/>
+<text x="80.0" y="176.0" font-size="13" fill="#fc8181" text-anchor="middle" font-weight="bold">-10 dB</text>
+<text x="80.0" y="268.0" font-size="13" fill="#e6e6e6" text-anchor="middle" font-weight="bold">÷10</text>
+<line x1="156.0" y1="194" x2="156.0" y2="210" stroke="#fc8181" stroke-width="2"/>
+<text x="156.0" y="186.0" font-size="11" fill="#fc8181" text-anchor="middle" font-weight="bold">-6 dB</text>
+<text x="156.0" y="268.0" font-size="11" fill="#e6e6e6" text-anchor="middle" font-weight="bold">÷4</text>
+<line x1="213.0" y1="184" x2="213.0" y2="210" stroke="#fc8181" stroke-width="3"/>
+<text x="213.0" y="176.0" font-size="13" fill="#fc8181" text-anchor="middle" font-weight="bold">-3 dB</text>
+<text x="213.0" y="268.0" font-size="13" fill="#e6e6e6" text-anchor="middle" font-weight="bold">÷2</text>
+<line x1="270.0" y1="184" x2="270.0" y2="210" stroke="#e6e6e6" stroke-width="3"/>
+<text x="270.0" y="176.0" font-size="13" fill="#e6e6e6" text-anchor="middle" font-weight="bold">0 dB</text>
+<text x="270.0" y="268.0" font-size="13" fill="#e6e6e6" text-anchor="middle" font-weight="bold">×1</text>
+<line x1="327.0" y1="184" x2="327.0" y2="210" stroke="#48bb78" stroke-width="3"/>
+<text x="327.0" y="176.0" font-size="13" fill="#48bb78" text-anchor="middle" font-weight="bold">+3 dB</text>
+<text x="327.0" y="268.0" font-size="13" fill="#e6e6e6" text-anchor="middle" font-weight="bold">×2</text>
+<line x1="384.0" y1="194" x2="384.0" y2="210" stroke="#48bb78" stroke-width="2"/>
+<text x="384.0" y="186.0" font-size="11" fill="#48bb78" text-anchor="middle" font-weight="bold">+6 dB</text>
+<text x="384.0" y="268.0" font-size="11" fill="#e6e6e6" text-anchor="middle" font-weight="bold">×4</text>
+<line x1="460.0" y1="184" x2="460.0" y2="210" stroke="#48bb78" stroke-width="3"/>
+<text x="460.0" y="176.0" font-size="13" fill="#48bb78" text-anchor="middle" font-weight="bold">+10 dB</text>
+<text x="460.0" y="268.0" font-size="13" fill="#e6e6e6" text-anchor="middle" font-weight="bold">×10</text>
+<line x1="517.0" y1="194" x2="517.0" y2="210" stroke="#48bb78" stroke-width="2"/>
+<text x="517.0" y="186.0" font-size="11" fill="#48bb78" text-anchor="middle" font-weight="bold">+13 dB</text>
+<text x="517.0" y="268.0" font-size="11" fill="#e6e6e6" text-anchor="middle" font-weight="bold">×20</text>
+<line x1="650.0" y1="184" x2="650.0" y2="210" stroke="#48bb78" stroke-width="3"/>
+<text x="650.0" y="176.0" font-size="13" fill="#48bb78" text-anchor="middle" font-weight="bold">+20 dB</text>
+<text x="650.0" y="268.0" font-size="13" fill="#e6e6e6" text-anchor="middle" font-weight="bold">×100</text>
+<line x1="840.0" y1="184" x2="840.0" y2="210" stroke="#48bb78" stroke-width="3"/>
+<text x="840.0" y="176.0" font-size="13" fill="#48bb78" text-anchor="middle" font-weight="bold">+30 dB</text>
+<text x="840.0" y="268.0" font-size="13" fill="#e6e6e6" text-anchor="middle" font-weight="bold">×1000</text>
+<text x="146.5" y="320.0" font-size="13" fill="#fc8181" text-anchor="middle" font-weight="bold">losses: negative dB</text>
+<text x="574.0" y="320.0" font-size="13" fill="#48bb78" text-anchor="middle" font-weight="bold">gains: positive dB</text>
+<text x="450.0" y="365.0" font-size="12" fill="#a0aec0" text-anchor="middle" font-weight="normal" font-style="italic">Learn two anchors, +3 dB = ×2 and +10 dB = ×10; every other line here is built by adding them.</text>
+</svg>

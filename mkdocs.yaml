@@ -158,8 +158,12 @@ nav:
       - Across Borders: across_borders.md
       - Who Enforces the Rules: who_enforces_the_rules.md
       - Antennas and Neighbours: antennas_and_neighbours.md
-# - Radio Fundamentals:
-#     - Overview: what_is_a_radio_wave.md
+  - Radio Fundamentals:
+      - Overview: radio_fundamentals.md
+      - What Is a Radio Wave?: what_is_a_radio_wave.md
+      - Decibels: decibels.md
+      - Reactance and Impedance: reactance_and_impedance.md
+      - Resonance and Tuned Circuits: resonance.md
 # - Antennas & Feedlines:
 #     - Overview: antennas_overview.md
 # - Propagation:

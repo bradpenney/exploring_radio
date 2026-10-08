@@ -33,7 +33,7 @@ RBR-4 section 3.1 says an amateur station in Canada "may operate within the freq
   <figcaption>The 30 MHz line is the qualification line: Basic on the right, Honours (or Morse, or Advanced) on the left.</figcaption>
 </figure>
 
-Bands are usually named by their wavelength in metres, which is roughly 300 divided by the frequency in megahertz. The 80 m band runs from 3.5 to 4.0 MHz, and 300 ÷ 3.75 = 80; the 2 m band runs from 144 to 148 MHz, and 300 ÷ 146 ≈ 2.05. The bands most operators use:
+Bands are usually named by their wavelength in metres, which is roughly 300 divided by the frequency in megahertz ([What Is a Radio Wave?](what_is_a_radio_wave.md) explains why). The 80 m band runs from 3.5 to 4.0 MHz, and 300 ÷ 3.75 = 80; the 2 m band runs from 144 to 148 MHz, and 300 ÷ 146 ≈ 2.05. The bands most operators use:
 
 | Band | Frequencies (RBR-4 Schedule I) | Maximum bandwidth | Qualifications |
 |---|---|---|---|

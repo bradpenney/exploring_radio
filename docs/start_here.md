@@ -53,11 +53,11 @@ If you'd rather see the whole picture on one page before diving in, [What Is Ele
 
 ## What Comes Next, and What's Still Being Written
 
-The rest of the Basic syllabus's electronics sections are radio-specific, so they'll live on this site, in the **Radio Fundamentals** topic: decibels (B-005-008), reactance and impedance (B-005-010), and resonance and tuned circuits (B-005-012). None of them is written yet; this page will link each one as it's published.
+The rest of the Basic syllabus's electronics sections are radio-specific, so they live on this site, in the **Radio Fundamentals** topic, and all four are ready: **[What Is a Radio Wave?](what_is_a_radio_wave.md)** picks up where AC vs DC leaves off, with wavelength, the radio spectrum, phase, and harmonics (B-005-007), **[Decibels](decibels.md)** covers gain, loss, and S-meters (B-005-008), and **[Reactance and Impedance](reactance_and_impedance.md)** puts numbers on how coils and capacitors treat each frequency (B-005-010), and **[Resonance and Tuned Circuits](resonance.md)** shows how a coil and capacitor pick out one frequency (B-005-012). [Radio Fundamentals](radio_fundamentals.md) lists them all.
 
-Meanwhile, three things on this site are ready now:
+Also ready now:
 
-- **[Getting Your Amateur Radio Certificate in Canada](getting_your_certificate.md):** what the certificate is, what 70% and 80% unlock, and how to find an examiner and get your call sign.
+- **[Getting Licensed](getting_licensed.md):** every regulation on the Basic exam, in six articles, from getting your certificate to putting up an antenna.
 - **[The Amateur's Code](amateurs_code.md):** the two short codes of conduct every operator is expected to follow.
 - **[The ISED Basic Qualification Anki deck](tools/ised_basic_anki_deck.md):** all 984 exam questions as flashcards, organized by syllabus section. Drill each section's cards after reading its articles, not before.
 

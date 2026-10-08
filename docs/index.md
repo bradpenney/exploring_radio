@@ -49,7 +49,7 @@ Articles are grouped into **topics**, each of which maps to sections of the Basi
 The seven topics below are being written. Each one will appear here as its first article is published.
 
 - **Getting Licensed**: the certificate, the exam, call signs, and what each qualification lets you do. [Explore Getting Licensed](getting_licensed.md): how to get your certificate and what it lets you transmit
-- **Radio Fundamentals**: frequency, wavelength, resonance, decibels, and modulation
+- **Radio Fundamentals**: frequency, wavelength, resonance, decibels, and modulation. [Explore Radio Fundamentals](radio_fundamentals.md): radio waves, the spectrum, and decibels
 - **Antennas & Feedlines**: dipoles, verticals, coax, and standing wave ratio
 - **Propagation**: how signals travel, from line of sight to bouncing off the ionosphere
 - **On the Air**: repeaters, simplex, phonetics, and making your first contact. Start with [The Amateur's Code](amateurs_code.md), the two short codes of conduct every operator is expected to follow

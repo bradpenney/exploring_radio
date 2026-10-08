@@ -31,13 +31,29 @@ LICENSED = [
 ]
 
 
+FUNDAMENTALS = [
+    ("Describing a signal", BLUE, [
+        (["What Is a", "Radio Wave?"], "../what_is_a_radio_wave/"),
+        (["Decibels"], "../decibels/")]),
+    ("Coils and capacitors", AMBER, [
+        (["Reactance and", "Impedance"], "../reactance_and_impedance/"),
+        (["Resonance"], "../resonance/")]),
+]
+
+
 def getting_licensed():
     stops = "; ".join(f"{name}: " + ", ".join(" ".join(l) for l, _ in s) for name, _, s in LICENSED)
     return transit_map("gl", "Getting Licensed reading order, as a transit map",
                        f"One line through six stops. {stops}. Every stop is a link to its article.", LICENSED, [6])
 
 
-FIGURES = {"getting_licensed.svg": getting_licensed}
+def radio_fundamentals():
+    stops = "; ".join(f"{name}: " + ", ".join(" ".join(l) for l, _ in s) for name, _, s in FUNDAMENTALS)
+    return transit_map("rf", "Radio Fundamentals reading order, as a transit map",
+                       f"One line through four stops. {stops}. Every stop is a link to its article.", FUNDAMENTALS, [4])
+
+
+FIGURES = {"getting_licensed.svg": getting_licensed, "radio_fundamentals.svg": radio_fundamentals}
 
 if __name__ == "__main__":
     render_all(FIGURES, OUT)
